@@ -1,30 +1,9 @@
 # Mobile Device Model Data (移动设备型号数据文件)
-记录、映射当前主流厂商「设备代号（Model）」到「产品名」的关系，定期更新。  
+记录、映射当前主流厂商「设备代号（Model）」到「产品名」映射，方便程序处理，定期更新。  
 
 更新时间：2021-03-06
 
-相关厂商：  
-苹果 (Apple)
-小米 (Xiaomi)
-华为 (HUAWEI)
-荣耀 (HONOR)
-vivo
-OPPO
-三星 (Samsung)
-一加 (OnePlus)
-真我 (realme) 
-魅族 (MEIZU) 
-联想 (Lenovo)
-摩托罗拉 (Motorola)
-诺基亚 (Nokia)
-中兴 (ZTE)
-努比亚 (nubia)
-乐视 (Letv) 
-坚果 (Smartisan)
-360 手机
-
-
-格式：  
+##### 格式：  
 > 型号:名称:品牌
 
 如：  
@@ -44,6 +23,27 @@ TET-AN00 TET-AN10:HUAWEI Mate X2:HUAWEI
 ```
 
 详见：[mobile.txt](./dist/mobile.txt)
+
+##### 相关厂商：  
+- 苹果 (Apple)
+- 小米 (Xiaomi)
+- 华为 (HUAWEI)
+- 荣耀 (HONOR)
+- vivo
+- OPPO
+- 三星 (Samsung)
+- 一加 (OnePlus)
+- 真我 (realme) 
+- 魅族 (MEIZU) 
+- 联想 (Lenovo)
+- 摩托罗拉 (Motorola)
+- 诺基亚 (Nokia)
+- 中兴 (ZTE)
+- 努比亚 (nubia)
+- 乐视 (Letv) 
+- 坚果 (Smartisan)
+- 360 手机
+
 
 ## 使用方法
 解析文件，用于转义设备名称
