@@ -1,12 +1,14 @@
 # Mobile Device Model Data (移动设备型号数据文件)
 #
+#
 # 记录、映射当前主流厂商「设备代号（Model）」到「产品名」的关系
+# 数据来源：https://github.com/KHwang9883/MobileModels
 #
 # 格式：
 # >>> 型号:名称:品牌
 #
-# 包含记录：3043
-# 更新时间：2021-03-06 15:46:46.739142
+# 包含记录：3109
+# 更新时间：2021-04-05 15:58:51.078132
 #
 # 数据维护：hectorqiuiscool@gmail.com
 #
@@ -505,6 +507,7 @@ PCT-TL10:荣耀 V20 移动 4G+ 版:HONOR
 OXF-AN00:荣耀 V30 5G 全网通版:HONOR
 OXF-AN10:荣耀 V30 PRO 5G 全网通版:HONOR
 YOK-AN10:荣耀 V40 5G 全网通版:HONOR
+ALA-AN70:荣耀 V40 轻奢版 5G 全网通版:HONOR
 NTS-AL00:荣耀 Magic 全网通版:HONOR
 TNY-AL00:荣耀 Magic 2 全网通版:HONOR
 TNY-AL10:荣耀 Magic 2 3D 感光版:HONOR
@@ -642,6 +645,8 @@ AGS3-W09HN:荣耀平板 6 10.1 英寸 Wi-Fi 版:HONOR
 AGS3-AL09HN:荣耀平板 6 10.1 英寸 全网通版:HONOR
 AGR-W09HN:荣耀平板 X6 9.7 英寸 Wi-Fi 版:HONOR
 AGR-AL09HN:荣耀平板 X6 9.7 英寸 全网通版:HONOR
+AGM3-W09HN:荣耀平板 7 10.1 英寸 Wi-Fi 版:HONOR
+AGM3-AL09HN:荣耀平板 7 10.1 英寸 全网通版:HONOR
 HDN-W09:荣耀 Waterplay 10.1 英寸 Wi-Fi 版:HONOR
 HDN-L09:荣耀 Waterplay 10.1 英寸 LTE 版:HONOR
 HDL-W09:荣耀 Waterplay 8 英寸 Wi-Fi 版:HONOR
@@ -876,9 +881,10 @@ LIO-AN00:HUAWEI Mate 30 Pro 5G 全网通版:HUAWEI
 LIO-TN00:HUAWEI Mate 30 Pro 5G 移动定制版:HUAWEI
 LIO-AN00m:HUAWEI Mate 30E Pro 全网通版:HUAWEI
 LIO-AN00P:HUAWEI Mate 30 RS 保时捷设计:HUAWEI
-OCE-AN00:HUAWEI Mate 40E 全网通版:HUAWEI
 OCE-AN10:HUAWEI Mate 40 全网通版:HUAWEI
+OCE-AN50:HUAWEI Mate 40E 全网通版:HUAWEI
 NOH-AN00:HUAWEI Mate 40 Pro 全网通版:HUAWEI
+NOH-AN01:HUAWEI Mate 40 Pro 全网通版:HUAWEI
 NOP-AN00:HUAWEI Mate 40 Pro+ 全网通版:HUAWEI
 NOP-AN00:HUAWEI Mate 40 RS 保时捷设计:HUAWEI
 TAH-AN00:HUAWEI Mate X:HUAWEI
@@ -1934,13 +1940,13 @@ ONEPLUS A6010:OnePlus 6T 全网通版:OnePlus
 ONEPLUS A6013:OnePlus 6T 国际版:OnePlus
 GM1900:OnePlus 7 全网通版:OnePlus
 GM1901:OnePlus 7 印度版:OnePlus
-GM1903:OnePlus 7 欧洲版:OnePlus
-GM1905:OnePlus 7 国际版:OnePlus
+GM1903:OnePlus 7 欧洲/国际版:OnePlus
+GM1905:OnePlus 7 北美版:OnePlus
 GM1910:OnePlus 7 Pro 全网通版:OnePlus
 GM1911:OnePlus 7 Pro 印度版:OnePlus
-GM1913:OnePlus 7 Pro 欧洲版:OnePlus
-GM1915:OnePlus 7 Pro T-Mobile 版:OnePlus
-GM1917:OnePlus 7 Pro 国际/北美版:OnePlus
+GM1913:OnePlus 7 Pro 国际版:OnePlus
+GM1915:OnePlus 7 Pro 欧洲版:OnePlus
+GM1917:OnePlus 7 Pro 北美/T-Mobile 版:OnePlus
 GM1920:OnePlus 7 Pro 5G 欧洲版:OnePlus
 GM1925:OnePlus 7 Pro 5G Sprint 版:OnePlus
 HD1900:OnePlus 7T 全网通版:OnePlus
@@ -1957,7 +1963,7 @@ IN2011:OnePlus 8 印度版:OnePlus
 IN2013:OnePlus 8 欧洲/国际版:OnePlus
 IN2015:OnePlus 8 北美版:OnePlus
 IN2017:OnePlus 8 T-Mobile 版:OnePlus
-IN2019:OnePlus 8 5G UW:OnePlus
+IN2019:OnePlus 8 5G UW (Verzion):OnePlus
 IN2020:OnePlus 8 Pro 全网通版:OnePlus
 IN2021:OnePlus 8 Pro 印度版:OnePlus
 IN2023:OnePlus 8 Pro 欧洲/国际版:OnePlus
@@ -1967,11 +1973,29 @@ KB2001:OnePlus 8T 印度版:OnePlus
 KB2003:OnePlus 8T 欧洲/国际版:OnePlus
 KB2005:OnePlus 8T 北美版:OnePlus
 KB2007:OnePlus 8T T-Mobile 版:OnePlus
+LE2100:OnePlus 9R 全网通版:OnePlus
+LE2101:OnePlus 9R 印度版:OnePlus
+LE2110:OnePlus 9 全网通版:OnePlus
+LE2111:OnePlus 9 印度版:OnePlus
+LE2113:OnePlus 9 欧洲/国际版:OnePlus
+LE2115:OnePlus 9 北美版:OnePlus
+LE2117:OnePlus 9 T-Mobile 版:OnePlus
+LE2119:OnePlus 9 Verzion 版:OnePlus
+LE2120:OnePlus 9 Pro 全网通版:OnePlus
+LE2121:OnePlus 9 Pro 印度版:OnePlus
+LE2123:OnePlus 9 Pro 欧洲/国际版:OnePlus
+LE2125:OnePlus 9 Pro 北美版:OnePlus
+LE2127:OnePlus 9 Pro T-Mobile 版:OnePlus
 AC2001:OnePlus Nord 印度版:OnePlus
 AC2003:OnePlus Nord 欧洲/国际版:OnePlus
-BE2029:OnePlus Nord N10 北美版:OnePlus
-BE2012:OnePlus Nord N100 国际版:OnePlus
+BE2025:OnePlus Nord N10 Metro 版:OnePlus
+BE2026:OnePlus Nord N10 北美版:OnePlus
+BE2029:OnePlus Nord N10 国际版:OnePlus
+BE2028:OnePlus Nord N10 T-Mobile 版:OnePlus
+BE2011:OnePlus Nord N100 北美版:OnePlus
 BE2013:OnePlus Nord N100 国际版:OnePlus
+BE2015:OnePlus Nord N100 Metro 版:OnePlus
+BE2012:OnePlus Nord N100 T-Mobile 版:OnePlus
 PAFM00:OPPO Find X 标准版 全网通版:OPPO
 PAFT00:OPPO Find X 标准版 移动版:OPPO
 PAHM00:OPPO Find X 超级闪充版/兰博基尼版 全网通版:OPPO
@@ -1979,6 +2003,8 @@ PAFT10:OPPO Find X 超级闪充版 移动版:OPPO
 PDEM10:OPPO Find X2 全网通版:OPPO
 PDET10:OPPO Find X2 移动版:OPPO
 PDEM30:OPPO Find X2 Pro 全网通版:OPPO
+PEDM00:OPPO Find X3 全网通版:OPPO
+PEEM00:OPPO Find X3 Pro 全网通版:OPPO
 PCAM00:OPPO Reno 全网通版:OPPO
 PCAT00:OPPO Reno 移动版:OPPO
 PCCM00:OPPO Reno 10 倍变焦版 全网通版:OPPO
@@ -2045,12 +2071,15 @@ PCHT30:OPPO A11x 移动版:OPPO
 PCHM00:OPPO A11n 全网通版:OPPO
 PCHT00:OPPO A11n 移动版:OPPO
 PDVM00:OPPO A32 全网通版:OPPO
+PEFM00:OPPO A35 全网通版:OPPO
 PDAM10:OPPO A52 全网通版:OPPO
 PDAT10:OPPO A52 移动版:OPPO
 PECM30:OPPO A53 (2020) 全网通版:OPPO
 PECT30:OPPO A53 (2020) 移动版:OPPO
 PEMM00:OPPO A55 全网通版:OPPO
+PEMM20:OPPO A55 全网通版:OPPO
 PEMT00:OPPO A55 移动版:OPPO
+PEMT20:OPPO A55 移动版:OPPO
 PDYM20:OPPO A72 全网通版:OPPO
 PDYT20:OPPO A72 移动版:OPPO
 PDYM10:OPPO A72n 全网通版:OPPO
@@ -2163,28 +2192,33 @@ RMX1901:realme X:realme
 RMX1851:realme X 青春版:realme
 RMX1991:realme X2:realme
 RMX1931:realme X2 Pro:realme
-RMX2051:realme X50 5G 全网通版:realme
-RMX2025:realme X50 5G 移动版:realme
-RMX2071:realme X50 Pro 5G:realme
-RMX2072:realme X50 Pro 玩家版:realme
-RMX2141:realme X50m 5G:realme
-RMX2142:realme X50m 5G:realme
-RMX2052:realme X50t 5G:realme
-RMX2176:realme X7 5G:realme
-RMX2121:realme X7 Pro 5G:realme
-RMX2200:realme V3 5G 全网通版:realme
-RMX2201:realme V3 5G 移动版:realme
-RMX2111:realme V5 5G 全网通版:realme
-RMX2112:realme V5 5G 移动版:realme
-RMX3121:realme V11 5G 全网通版:realme
-RMX3122:realme V11 5G 移动版:realme
-RMX3092:realme V15 5G 全网通版:realme
-RMX3093:realme V15 5G 移动版:realme
-RMX1971:realme Q:realme
-RMX2117:realme Q2 5G:realme
-RMX2173:realme Q2 Pro 5G:realme
-RMX2200:realme Q2i 5G:realme
-RMX2202:realme GT 5G:realme
+RMX2051:realme 真我 X50 5G 全网通版:realme
+RMX2025:realme 真我 X50 5G 移动版:realme
+RMX2071:realme 真我 X50 Pro 5G:realme
+RMX2072:realme 真我 X50 Pro 玩家版:realme
+RMX2141:realme 真我 X50m 5G:realme
+RMX2142:realme 真我 X50m 5G:realme
+RMX2052:realme 真我 X50t 5G:realme
+RMX2176:realme 真我 X7 5G:realme
+RMX2121:realme 真我 X7 Pro 5G:realme
+RMX3115:realme 真我 X7 Pro 至尊版 5G 全网通版:realme
+RMX3116:realme 真我 X7 Pro 至尊版 5G 移动版:realme
+RMX2200:realme 真我 V3 5G 全网通版:realme
+RMX2201:realme 真我 V3 5G 移动版:realme
+RMX2111:realme 真我 V5 5G 全网通版:realme
+RMX2112:realme 真我 V5 5G 移动版:realme
+RMX3121:realme 真我 V11 5G 全网通版:realme
+RMX3122:realme 真我 V11 5G 移动版:realme
+RMX3041:realme 真我 V13 5G 全网通版:realme
+RMX3042:realme 真我 V13 5G 移动版:realme
+RMX3092:realme 真我 V15 5G 全网通版:realme
+RMX3093:realme 真我 V15 5G 移动版:realme
+RMX1971:realme 真我 Q:realme
+RMX2117:realme 真我 Q2 5G:realme
+RMX2173:realme 真我 Q2 Pro 5G:realme
+RMX2200:realme 真我 Q2i 5G:realme
+RMX2202:realme 真我 GT 5G:realme
+RMX3031:realme 真我 GT Neo 5G:realme
 CPH1859:realme 1:realme
 CPH1861:realme 1:realme
 RMX1805:realme 2:realme
@@ -2218,6 +2252,8 @@ RMX2111:realme 7 5G:realme
 RMX2170:realme 7 Pro:realme
 RMX2103:realme 7i:realme
 RMX2104:realme 7i:realme
+RMX3085:realme 8 印度版:realme
+RMX3081:realme 8 Pro 印度版:realme
 RMX1901:realme X:realme
 RMX1921:realme XT:realme
 RMX1922:realme XT:realme
@@ -2244,6 +2280,7 @@ RMX2021:realme C3 国际版:realme
 RMX2022:realme C3 国际版:realme
 RMX2027:realme C3 印度版:realme
 RMX2027:realme C3i:realme
+RMX2183:realme C11:realme
 RMX2185:realme C11:realme
 RMX2189:realme C12:realme
 RMX2180:realme C15:realme
@@ -2382,6 +2419,7 @@ SM-A8050:Galaxy A80:Samsung
 SM-A9080:Galaxy A90 5G:Samsung
 SM-A5160:Galaxy A51 5G:Samsung
 SM-A7160:Galaxy A71 5G:Samsung
+SM-A5260:Galaxy A52 5G:Samsung
 SM-M3070:Galaxy M30s:Samsung
 SM-F9000:Galaxy Fold:Samsung
 SM-F7000:Galaxy Z Flip:Samsung
@@ -2526,6 +2564,7 @@ V2001A:vivo X50 5G 全网通版:vivo
 V2005A:vivo X50 Pro 5G 全网通版:vivo
 V2011A:vivo X50 Pro+ 5G 全网通版:vivo
 V2046A:vivo X60 5G 全网通版:vivo
+V2085A:vivo X60t 5G 全网通版:vivo
 V2047A:vivo X60 Pro 5G 全网通版:vivo
 V2056A:vivo X60 Pro+ 5G 全网通版:vivo
 V1821A:vivo NEX 双屏版 全网通版:vivo
@@ -2584,7 +2623,9 @@ V1945A:vivo Y9s 全网通版:vivo
 V1945T:vivo Y9s 移动全网通版:vivo
 V2034A:vivo Y30 全网通版:vivo
 V2036A:vivo Y30 标准版 全网通版:vivo
+V2066BA:vivo Y30g 全网通版:vivo
 V2054A:vivo Y31s 5G 全网通版:vivo
+V2068A:vivo Y31s 标准版 5G 全网通版:vivo
 V1965A:vivo Y50 全网通版:vivo
 V2002A:vivo Y51s 5G 全网通版:vivo
 V2057A:vivo Y52s 5G 全网通版:vivo
@@ -2612,6 +2653,9 @@ V2061A:iQOO U3 5G 全网通版:vivo
 V2024A:iQOO 5 5G 全网通版:vivo
 V2025A:iQOO 5 Pro 5G 全网通版:vivo
 V2049A:iQOO 7 5G 全网通版:vivo
+V2055A:iQOO Neo5 5G 全网通版:vivo
+V2073A:iQOO Z3 5G 全网通版:vivo
+V2106A:iQOO U3x 5G 全网通版:vivo
 V1831A:vivo S1 全网通版:vivo
 V1831T:vivo S1 移动全网通版:vivo
 V1832A:vivo S1 Pro 全网通版:vivo
@@ -2708,8 +2752,19 @@ M2007J3SG:小米 10T Pro 国际版:Xiaomi
 M2007J3SI:小米 10T Pro 印度版:Xiaomi
 M2007J17G:小米 10T Lite 国际版:Xiaomi
 M2007J17I:小米 10i 印度版:Xiaomi
+M2102J2SC:小米 10S 全网通版:Xiaomi
 M2011K2C:小米 11 全网通版:Xiaomi
 M2011K2G:小米 11 国际版:Xiaomi
+M2102K1AC:小米 11 Pro 全网通版:Xiaomi
+M2102K1C:小米 11 Ultra 全网通版:Xiaomi
+M2102K1G:小米 11 Ultra 国际版:Xiaomi
+M2101K9C:小米 11 青春版 全网通版:Xiaomi
+M2101K9G:小米 11 Lite 5G 国际版:Xiaomi
+M2101K9AG:小米 11 Lite 4G 国际版:Xiaomi
+M2101K9AI:小米 11 Lite 4G 印度版:Xiaomi
+M2012K11G:小米 11i 国际版:Xiaomi
+M2012K11AI:小米 11X 印度版:Xiaomi
+M2012K11I:小米 11X Pro 印度版:Xiaomi
 2014616:小米 Note 双网通版:Xiaomi
 2014619:小米 Note 全网通版:Xiaomi
 2014618:小米 Note 移动合约版:Xiaomi
@@ -2737,6 +2792,7 @@ M1803D5XC:小米 MIX 2S 联通电信定制版:Xiaomi
 M1810E5E:小米 MIX 3 全网通版:Xiaomi
 M1810E5A:小米 MIX 3 全网通版 (全球频段):Xiaomi
 M1810E5GG:小米 MIX 3 5G:Xiaomi
+M2011J18C:MIX FOLD:Xiaomi
 2016001:小米 Max 标准版 全网通版:Xiaomi
 2016002:小米 Max 标准版 国际版:Xiaomi
 2016007:小米 Max 高配版:Xiaomi
@@ -2873,8 +2929,8 @@ M2010J19SG:Redmi 9T 国际版:Xiaomi
 M2010J19SI:Redmi 9 Power 印度版:Xiaomi
 M2010J19SR:Redmi 9T 日本版:Xiaomi
 M2010J19ST:Redmi 9T 泰国版:Xiaomi
+M2010J19SY:Redmi 9T 国际版 (NFC):Xiaomi
 M2010J19SL:Redmi 9T 巴西版:Xiaomi
-M2010J19SY:Redmi 9T 国际版:Xiaomi
 2014018:红米 Note 联通 3G 标准版:Xiaomi
 2013121:红米 Note 联通 3G 增强版:Xiaomi
 2014017:红米 Note 移动 3G 标准版:Xiaomi
@@ -2950,6 +3006,7 @@ M2003J15SI:Redmi Note 9 印度版:Xiaomi
 M2003J15SG:Redmi Note 9 国际版 (有 NFC):Xiaomi
 M2007J22G:Redmi Note 9T 5G 国际版:Xiaomi
 M2007J22R:Redmi Note 9T 5G 日本版:Xiaomi
+A001XM:Redmi Note 9T 5G SoftBank 版:Xiaomi
 M2007J17C:Redmi Note 9 Pro 5G 全网通版:Xiaomi
 M2003J6A1G:Redmi Note 9S 国际版:Xiaomi
 M2003J6A1R:Redmi Note 9S 日本版 / 韩国版:Xiaomi
@@ -2963,6 +3020,8 @@ M2101K7BN:Redmi Note 10S 国际版 (NFC):Xiaomi
 M2101K7BNY:Redmi Note 10S 国际版 (NFC):Xiaomi
 M2103K19Y:Redmi Note 10 5G 国际版:Xiaomi
 M2101K6G:Redmi Note 10 Pro 国际版:Xiaomi
+M2101K6T:Redmi Note 10 Pro 泰国版:Xiaomi
+M2101K6R:Redmi Note 10 Pro 日本版:Xiaomi
 M2101K6P:Redmi Note 10 Pro 印度版:Xiaomi
 M2101K6I:Redmi Note 10 Pro Max 印度版:Xiaomi
 M2004J7AC:Redmi 10X 5G 全网通版:Xiaomi
@@ -2981,6 +3040,7 @@ M2001G7AC:Redmi K30i 5G 全网通版:Xiaomi
 M1912G7BE:Redmi K30 4G 全网通版:Xiaomi
 M1912G7BC:Redmi K30 4G 运营商全网通版:Xiaomi
 M2001J11C:Redmi K30 Pro 全网通版:Xiaomi
+M2001J11C:Redmi K30 Pro 变焦版 全网通版:Xiaomi
 M2001J11E:Redmi K30 Pro 变焦版 全网通版:Xiaomi
 M2006J10C:Redmi K30 至尊纪念版 全网通版:Xiaomi
 M2007J3SC:Redmi K30S 至尊纪念版 全网通版:Xiaomi
@@ -3000,11 +3060,14 @@ M1903C3GG:Redmi Go 国际版:Xiaomi
 M1903C3GH:Redmi Go 国际版:Xiaomi
 M1903C3GI:Redmi Go 印度版:Xiaomi
 M1805E10A:POCO F1:Xiaomi
-M2004J11G:POCO F2 Pro:Xiaomi
+M2004J11G:POCO F2 Pro 国际版:Xiaomi
+M2012K11AG:POCO F3 国际版:Xiaomi
 M1912G7BI:POCO X2 印度版:Xiaomi
 M2007J20CI:POCO X3 印度版:Xiaomi
 M2007J20CG:POCO X3 NFC 国际版:Xiaomi
 M2007J20CT:POCO X3 NFC 泰国版:Xiaomi
+M2102J20SG:POCO X3 Pro 国际版:Xiaomi
+M2102J20SI:POCO X3 Pro 印度版:Xiaomi
 M2004J19PI:POCO M2 印度版:Xiaomi
 M2003J6CI:POCO M2 Pro 印度版:Xiaomi
 M2010J19CG:POCO M3 国际版:Xiaomi
@@ -3023,6 +3086,8 @@ KLE-H0:黑鲨游戏手机 3 国际版:Xiaomi
 MBU-A0:腾讯黑鲨游戏手机 3 Pro 全网通版:Xiaomi
 MBU-H0:黑鲨游戏手机 3 Pro 国际版:Xiaomi
 KLE-A0:腾讯黑鲨游戏手机 3S 全网通版:Xiaomi
+PRS-A0:黑鲨游戏手机 4 全网通版:Xiaomi
+KSR-A0:黑鲨游戏手机 4 Pro 全网通版:Xiaomi
 ZTE A2017:中兴天机 7:zte
 ZTE A2018:中兴天机 7S:zte
 ZTE C2017:中兴天机 7 MAX:zte
@@ -3035,6 +3100,9 @@ ZTE 9000N:中兴天机 Axon 11 SE 5G:zte
 ZTE A2021:中兴天机 Axon 11 5G 公开版:zte
 ZTE A2021H:中兴天机 Axon 11 5G 行业版:zte
 ZTE A2121:中兴天机 Axon 20 5G:zte
+ZTE 9030N:中兴 S30:zte
+ZTE A2122H:中兴 S30 Pro:zte
+ZTE 8030N:中兴 S30 SE:zte
 ZTE BV0730:中兴 Blade A2 Plus:zte
 ZTE V0721:中兴 Blade A2S:zte
 ZTE A0616:中兴 Blade A3:zte
