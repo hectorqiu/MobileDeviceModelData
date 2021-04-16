@@ -7,8 +7,8 @@
 # 格式：
 # >>> 型号:名称:品牌
 #
-# 包含记录：3109
-# 更新时间：2021-04-05 15:58:51.078132
+# 包含记录：3120
+# 更新时间：2021-04-15 18:30:33.609666
 #
 # 数据维护：hectorqiuiscool@gmail.com
 #
@@ -1252,6 +1252,10 @@ HEGE-550B:华为智慧屏 V55i-B (4GB+32GB):HUAWEI
 HEGE-560:华为智慧屏 V65:HUAWEI
 HEGE-560B:华为智慧屏 V65i:HUAWEI
 HEGE-570:华为智慧屏 V75:HUAWEI
+HD55THAA:华为智慧屏 V55 2021 款:HUAWEI
+HD65THAA:华为智慧屏 V65 2021 款:HUAWEI
+HD75THAA:华为智慧屏 V75 2021 款:HUAWEI
+HD85THAA:华为智慧屏 V85 2021 款:HUAWEI
 PLAT-760:华为智慧屏 X65:HUAWEI
 HD55KANB:华为智慧屏 S 55" 60Hz (3GB+16GB):HUAWEI
 HD55KANC:华为智慧屏 S 55" 60Hz (3GB+32GB):HUAWEI
@@ -1450,6 +1454,7 @@ Lenovo L38082:联想 K6 畅享版:Lenovo
 Lenovo L18011:联想 A5:Lenovo
 Lenovo K320t:联想 K320t:Lenovo
 Lenovo L79031:拯救者电竞手机 Pro:Lenovo
+Lenovo L70081:拯救者电竞手机 2 Pro:Lenovo
 XT2081-4:联想乐檬 K12:Lenovo
 XT2091-7:联想乐檬 K12 Pro:Lenovo
 Z1221:ZUK Z1:Lenovo
@@ -2197,22 +2202,23 @@ RMX2025:realme 真我 X50 5G 移动版:realme
 RMX2071:realme 真我 X50 Pro 5G:realme
 RMX2072:realme 真我 X50 Pro 玩家版:realme
 RMX2141:realme 真我 X50m 5G:realme
-RMX2142:realme 真我 X50m 5G:realme
+RMX2142:realme 真我 X50m 5G 运营商定制版:realme
 RMX2052:realme 真我 X50t 5G:realme
 RMX2176:realme 真我 X7 5G:realme
 RMX2121:realme 真我 X7 Pro 5G:realme
 RMX3115:realme 真我 X7 Pro 至尊版 5G 全网通版:realme
-RMX3116:realme 真我 X7 Pro 至尊版 5G 移动版:realme
+RMX3116:realme 真我 X7 Pro 至尊版 5G 运营商定制版:realme
 RMX2200:realme 真我 V3 5G 全网通版:realme
-RMX2201:realme 真我 V3 5G 移动版:realme
+RMX2201:realme 真我 V3 5G 运营商定制版:realme
 RMX2111:realme 真我 V5 5G 全网通版:realme
-RMX2112:realme 真我 V5 5G 移动版:realme
+RMX2112:realme 真我 V5 5G 运营商定制版:realme
 RMX3121:realme 真我 V11 5G 全网通版:realme
-RMX3122:realme 真我 V11 5G 移动版:realme
+RMX3122:realme 真我 V11 5G 运营商定制版:realme
 RMX3041:realme 真我 V13 5G 全网通版:realme
-RMX3042:realme 真我 V13 5G 移动版:realme
+RMX3042:realme 真我 V13 5G 运营商定制版:realme
+RMX3043:realme 真我 V13 5G 运营商定制版:realme
 RMX3092:realme 真我 V15 5G 全网通版:realme
-RMX3093:realme 真我 V15 5G 移动版:realme
+RMX3093:realme 真我 V15 5G 运营商定制版:realme
 RMX1971:realme 真我 Q:realme
 RMX2117:realme 真我 Q2 5G:realme
 RMX2173:realme 真我 Q2 Pro 5G:realme
@@ -2286,6 +2292,9 @@ RMX2189:realme C12:realme
 RMX2180:realme C15:realme
 RMX2195:realme C15 高通版:realme
 RMX2101:realme C17:realme
+RMX3063:realme C20:realme
+RMX3201:realme C21:realme
+RMX3193:realme C25:realme
 RMX1831:realme U1:realme
 RMX1833:realme U1:realme
 RMX2002:realme Narzo 印度尼西亚版:realme
@@ -3006,7 +3015,7 @@ M2003J15SI:Redmi Note 9 印度版:Xiaomi
 M2003J15SG:Redmi Note 9 国际版 (有 NFC):Xiaomi
 M2007J22G:Redmi Note 9T 5G 国际版:Xiaomi
 M2007J22R:Redmi Note 9T 5G 日本版:Xiaomi
-A001XM:Redmi Note 9T 5G SoftBank 版:Xiaomi
+A001XM:Redmi Note 9T 5G 日本版 (SoftBank):Xiaomi
 M2007J17C:Redmi Note 9 Pro 5G 全网通版:Xiaomi
 M2003J6A1G:Redmi Note 9S 国际版:Xiaomi
 M2003J6A1R:Redmi Note 9S 日本版 / 韩国版:Xiaomi
@@ -3018,7 +3027,9 @@ M2101K7AI:Redmi Note 10 印度版:Xiaomi
 M2101K7BG:Redmi Note 10S 国际版:Xiaomi
 M2101K7BN:Redmi Note 10S 国际版 (NFC):Xiaomi
 M2101K7BNY:Redmi Note 10S 国际版 (NFC):Xiaomi
-M2103K19Y:Redmi Note 10 5G 国际版:Xiaomi
+M2101K7BL:Redmi Note 10S 巴西版:Xiaomi
+M2103K19G:Redmi Note 10 5G 国际版:Xiaomi
+M2103K19Y:Redmi Note 10 5G 国际版 (NFC):Xiaomi
 M2101K6G:Redmi Note 10 Pro 国际版:Xiaomi
 M2101K6T:Redmi Note 10 Pro 泰国版:Xiaomi
 M2101K6R:Redmi Note 10 Pro 日本版:Xiaomi
