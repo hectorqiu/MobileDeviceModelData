@@ -7,8 +7,8 @@
 # 格式：
 # >>> 型号:名称:品牌
 #
-# 包含记录：3411
-# 更新时间：2021-09-15 11:30:41.332476
+# 包含记录：3508
+# 更新时间：2021-10-14 10:06:46.256557
 #
 # 数据维护：hectorqiuiscool@gmail.com
 #
@@ -55,6 +55,10 @@ iPhone13,1:iPhone 12 Mini:Apple
 iPhone13,2:iPhone 12:Apple
 iPhone13,3:iPhone 12 Pro:Apple
 iPhone13,4:iPhone 12 Pro Max:Apple
+iPhone14,2:iPhone 13 Pro:Apple
+iPhone14,3:iPhone 13 Pro Max:Apple
+iPhone14,4:iPhone 13 Mini:Apple
+iPhone14,5:iPhone 13:Apple
 iPod1,1:1st Gen iPod:Apple
 iPod2,1:2nd Gen iPod:Apple
 iPod3,1:3rd Gen iPod:Apple
@@ -98,8 +102,8 @@ iPad6,11:iPad (2017):Apple
 iPad6,12:iPad (2017):Apple
 iPad7,1:iPad Pro 2nd Gen (WiFi):Apple
 iPad7,2:iPad Pro 2nd Gen (WiFi+Cellular):Apple
-iPad7,3:iPad Pro 10.5-inch:Apple
-iPad7,4:iPad Pro 10.5-inch:Apple
+iPad7,3:iPad Pro 10.5-inch 2nd Gen:Apple
+iPad7,4:iPad Pro 10.5-inch 2nd Gen:Apple
 iPad7,5:iPad 6th Gen (WiFi):Apple
 iPad7,6:iPad 6th Gen (WiFi+Cellular):Apple
 iPad7,11:iPad 7th Gen 10.2-inch (WiFi):Apple
@@ -122,8 +126,20 @@ iPad11,3:iPad Air 3rd Gen (WiFi):Apple
 iPad11,4:iPad Air 3rd Gen:Apple
 iPad11,6:iPad 8th Gen (WiFi):Apple
 iPad11,7:iPad 8th Gen (WiFi+Cellular):Apple
-iPad13,1:iPad air 4th Gen (WiFi):Apple
-iPad13,2:iPad air 4th Gen (WiFi+Cellular):Apple
+iPad12,1:iPad 9th Gen (WiFi):Apple
+iPad12,2:iPad 9th Gen (WiFi+Cellular):Apple
+iPad14,1:iPad mini 6th Gen (WiFi):Apple
+iPad14,2:iPad mini 6th Gen (WiFi+Cellular):Apple
+iPad13,1:iPad Air 4th Gen (WiFi):Apple
+iPad13,2:iPad Air 4th Gen (WiFi+Cellular):Apple
+iPad13,4:iPad Pro 11 inch 5th Gen:Apple
+iPad13,5:iPad Pro 11 inch 5th Gen:Apple
+iPad13,6:iPad Pro 11 inch 5th Gen:Apple
+iPad13,7:iPad Pro 11 inch 5th Gen:Apple
+iPad13,8:iPad Pro 12.9 inch 5th Gen:Apple
+iPad13,9:iPad Pro 12.9 inch 5th Gen:Apple
+iPad13,10:iPad Pro 12.9 inch 5th Gen:Apple
+iPad13,11:iPad Pro 12.9 inch 5th Gen:Apple
 Watch1,1:Apple Watch 38mm case:Apple
 Watch1,2:Apple Watch 42mm case:Apple
 Watch2,6:Apple Watch Series 1 38mm case:Apple
@@ -150,6 +166,10 @@ Watch6,1:Apple Watch Series 6 40mm case (GPS):Apple
 Watch6,2:Apple Watch Series 6 44mm case (GPS):Apple
 Watch6,3:Apple Watch Series 6 40mm case (GPS+Cellular):Apple
 Watch6,4:Apple Watch Series 6 44mm case (GPS+Cellular):Apple
+Watch6,6:Apple Watch Series 7 41mm case (GPS):Apple
+Watch6,7:Apple Watch Series 7 45mm case (GPS):Apple
+Watch6,8:Apple Watch Series 7 41mm case (GPS+Cellular):Apple
+Watch6,9:Apple Watch Series 7 45mm case (GPS+Cellular):Apple
 1503-M02:360 手机 N4 移动版:360
 1503-A01:360 手机 N4 全网通版:360
 1505-A01:360 手机 N4s:360
@@ -234,6 +254,10 @@ A2400:iPhone 12 mini (国行):Apple
 A2404:iPhone 12 (国行):Apple
 A2408:iPhone 12 Pro (国行):Apple
 A2412:iPhone 12 Pro Max (国行):Apple
+A2629:iPhone 13 mini (国行):Apple
+A2634:iPhone 13 (国行):Apple
+A2639:iPhone 13 Pro (国行):Apple
+A2644:iPhone 13 Pro Max (国行):Apple
 A1219:iPad (无线局域网):Apple
 A1337:iPad (无线局域网 + 3G):Apple
 A1395:iPad 2 (无线局域网):Apple
@@ -252,6 +276,8 @@ A2197:iPad (第 7 代) (无线局域网):Apple
 A2199:iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行):Apple
 A2270:iPad (第 8 代) (无线局域网):Apple
 A2430:iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行):Apple
+A2602:iPad (第 9 代) (无线局域网):Apple
+A2605:iPad (第 9 代) (无线局域网 + 蜂窝网络) (国行):Apple
 A1474:iPad Air (无线局域网):Apple
 A1475:iPad Air (无线局域网 + 蜂窝网络):Apple
 A1476:iPad Air (无线局域网 + 蜂窝网络) (TD-LTE):Apple
@@ -301,6 +327,8 @@ A1538:iPad mini 4 (无线局域网):Apple
 A1550:iPad mini 4 (无线局域网 + 蜂窝网络):Apple
 A2133:iPad mini (第 5 代) (无线局域网):Apple
 A2125:iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (国行):Apple
+A2567:iPad mini (第 6 代) (无线局域网):Apple
+A2569:iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (国行):Apple
 A1553:Apple Watch (第 1 代, 38 毫米表壳):Apple
 A1554:Apple Watch (第 1 代, 42 毫米表壳):Apple
 A1802:Apple Watch Series 1 (38 毫米表壳):Apple
@@ -391,12 +419,30 @@ A2407:iPhone 12 Pro (其他国家和地区):Apple
 A2342:iPhone 12 Pro Max (美国):Apple
 A2410:iPhone 12 Pro Max (加拿大，日本):Apple
 A2411:iPhone 12 Pro Max (其他国家和地区):Apple
+A2481:iPhone 13 mini (美国):Apple
+A2626:iPhone 13 mini (加拿大, 日本, 墨西哥, 沙特阿拉伯):Apple
+A2630:iPhone 13 mini (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯):Apple
+A2628:iPhone 13 mini (其他国家和地区):Apple
+A2482:iPhone 13 (美国):Apple
+A2631:iPhone 13 (加拿大, 日本, 墨西哥, 沙特阿拉伯):Apple
+A2635:iPhone 13 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯):Apple
+A2633:iPhone 13 (其他国家和地区):Apple
+A2483:iPhone 13 Pro (美国):Apple
+A2636:iPhone 13 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯):Apple
+A2640:iPhone 13 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯):Apple
+A2638:iPhone 13 Pro (其他国家和地区):Apple
+A2484:iPhone 13 Pro Max (美国):Apple
+A2641:iPhone 13 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯):Apple
+A2645:iPhone 13 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯):Apple
+A2643:iPhone 13 Pro Max (其他国家和地区):Apple
 A1403:iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ):Apple
 A1459:iPad (第 4 代) (无线局域网 + 蜂窝网络):Apple
 A2198:iPad (第 7 代) (无线局域网 + 蜂窝网络):Apple
 A2200:iPad (第 7 代) (无线局域网 + 蜂窝网络):Apple
 A2428:iPad (第 8 代) (无线局域网 + 蜂窝网络):Apple
 A2429:iPad (第 8 代) (无线局域网 + 蜂窝网络):Apple
+A2603:iPad (第 9 代) (无线局域网 + 蜂窝网络):Apple
+A2604:iPad (第 9 代) (无线局域网 + 蜂窝网络):Apple
 A2123:iPad Air (第 3 代) (无线局域网 + 蜂窝网络):Apple
 A2153:iPad Air (第 3 代) (无线局域网 + 蜂窝网络):Apple
 A2072:iPad Air (第 4 代) (无线局域网 + 蜂窝网络):Apple
@@ -427,6 +473,7 @@ A2379:iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RA
 A1454:iPad mini (无线局域网 + 蜂窝网络):Apple
 A2124:iPad mini (第 5 代) (无线局域网 + 蜂窝网络):Apple
 A2126:iPad mini (第 5 代) (无线局域网 + 蜂窝网络):Apple
+A2568:iPad mini (第 6 代) (无线局域网 + 蜂窝网络):Apple
 A1860:Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (北美):Apple
 A1889:Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (欧亚):Apple
 A1861:Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (北美):Apple
@@ -579,6 +626,7 @@ TEL-TN10:荣耀 X10 5G 移动定制版:honor_cn
 KKG-AN00:荣耀 X10 Max 5G 全网通版:honor_cn
 NTN-AN20:荣耀 X20 5G 全网通版:honor_cn
 CHL-AN00:荣耀 X20 SE 5G 全网通版:honor_cn
+KKG-AN70:荣耀 X30 Max 5G 全网通版:honor_cn
 JMM-AL00:荣耀 V9 Play 全网通标配版:honor_cn
 JMM-AL10:荣耀 V9 Play 全网通高配版:honor_cn
 JMM-TL00:荣耀 V9 Play 移动定制标配版:honor_cn
@@ -658,6 +706,7 @@ DUA-TL00:荣耀畅玩 7 移动 4G+ 版:honor_cn
 KSA-AL00:荣耀畅玩 8 全网通版:honor_cn
 KSA-TL00:荣耀畅玩 8 移动 4G+ 版:honor_cn
 KOZ-AL00:荣耀畅玩 20 全网通版:honor_cn
+HJC-LX9:荣耀畅玩 20 Pro 全网通版:honor_cn
 S8-701w:荣耀平板 Wi-Fi 版:honor_cn
 S8-701u:荣耀平板 3G 版:honor_cn
 T1-821w:荣耀平板优享版:honor_cn
@@ -676,7 +725,10 @@ AGS3-W09HN:荣耀平板 6 10.1 英寸 Wi-Fi 版:honor_cn
 AGS3-AL09HN:荣耀平板 6 10.1 英寸 全网通版:honor_cn
 AGR-W09HN:荣耀平板 X6 9.7 英寸 Wi-Fi 版:honor_cn
 AGR-AL09HN:荣耀平板 X6 9.7 英寸 全网通版:honor_cn
+KRJ2-W09:荣耀平板 V7 10.4 英寸 Wi-Fi 版:honor_cn
+KRJ2-AN00:荣耀平板 V7 10.4 英寸 5G 版:honor_cn
 BRT-W09:荣耀平板 V7 Pro 11 英寸 Wi-Fi 版:honor_cn
+BRT-AN09:荣耀平板 V7 Pro 11 英寸 5G 版:honor_cn
 AGM3-W09HN:荣耀平板 7 10.1 英寸 Wi-Fi 版:honor_cn
 AGM3-AL09HN:荣耀平板 7 10.1 英寸 全网通版:honor_cn
 KOB2-W09HN:荣耀平板 X7 8 英寸 Wi-Fi 版:honor_cn
@@ -729,9 +781,9 @@ NDR-WFH9HN:荣耀 MagicBook 14 2021 i5:honor_cn
 NDR-WFE9HN:荣耀 MagicBook 14 2021 i7:honor_cn
 NLR-WAQ9HNRP:荣耀 MagicBook 14 SE 2021 R5:honor_cn
 NLR-WAQ9HNR:荣耀 MagicBook 14 SE 2021 R5:honor_cn
-NMH-WDQ9HN:荣耀 MagicBook 14 2021 锐龙版 R5 (8GB+256GB):honor_cn
-NMH-WFQ9HN:荣耀 MagicBook 14 2021 锐龙版 R5 (16GB+512GB):honor_cn
-NMH-WFP9HN:荣耀MagicBook 14 2021款 锐龙版 R7 (16GB+512GB):honor_cn
+NMH-WDQ9HN:荣耀 MagicBook 14 2021 R5 (8GB+256GB):honor_cn
+NMH-WFQ9HN:荣耀 MagicBook 14 2021 R5 (16GB+512GB):honor_cn
+NMH-WFP9HN:荣耀 MagicBook 14 2021 R7:honor_cn
 Boh-WAH9HN:荣耀 MagicBook 15 i5:honor_cn
 Boh-WAH9HNP:荣耀 MagicBook 15 i5 (16GB+512GB):honor_cn
 Boh-WAE9HN:荣耀 MagicBook 15 i7:honor_cn
@@ -745,13 +797,12 @@ BohL-WFQ9HN:荣耀 MagicBook 15 2020 R5 (16GB+512GB):honor_cn
 BohL-WFP9HN:荣耀 MagicBook 15 2020 R7:honor_cn
 BDR-WFH9HN:荣耀 MagicBook 15 2021 i5:honor_cn
 BDR-WFE9HN:荣耀 MagicBook 15 2021 i7:honor_cn
-BMH-WDQ9HN:荣耀 MagicBook 15 2021 锐龙版 R5 (8GB+256GB):honor_cn
-BMH-WFQ9HN:荣耀 MagicBook 15 2021 锐龙版 R5 (16GB+512GB):honor_cn
-BMH-WFP9HN:荣耀 MagicBook 15 2021 锐龙版 R7:honor_cn
-NBR-WAI9:荣耀 MagicBook X 14 i3:honor_cn
-NBR-WAH9:荣耀 MagicBook X 14 i5:honor_cn
-BBR-WAI9:荣耀 MagicBook X 15 i3:honor_cn
-BBR-WAH9:荣耀 MagicBook X 15 i5:honor_cn
+BMH-WDQ9HN:荣耀 MagicBook 15 2021 R5 (8GB+256GB):honor_cn
+BMH-WFQ9HN:荣耀 MagicBook 15 2021 R5 (16GB+512GB):honor_cn
+BMH-WFP9HN:荣耀 MagicBook 15 2021 R7:honor_cn
+HYM-W56:荣耀 MagicBook 16 2021 R5:honor_cn
+HYM-W76:荣耀 MagicBook 16 2021 R7:honor_cn
+HYM-W76:荣耀 MagicBook 16 Pro 2021 R7:honor_cn
 HBL-W19:荣耀 MagicBook Pro i5:honor_cn
 HBL-W29:荣耀 MagicBook Pro i7:honor_cn
 HBL-W19L:荣耀 MagicBook Pro 科技尝鲜版 i5:honor_cn
@@ -765,9 +816,15 @@ HLY-W29RL:荣耀 MagicBook Pro 科技尝鲜版 R7:honor_cn
 HBB-WAH9PHNL:荣耀 MagicBook Pro 2020 i5 (16GB+512GB):honor_cn
 HBB-WAE9PHNL:荣耀 MagicBook Pro 2020 i7 (16GB+512GB):honor_cn
 HLYL-WFQ9:荣耀 MagicBook Pro 2020 R5 (16GB+512GB):honor_cn
-HYLR-WDQ9:荣耀 MagicBook Pro 2020 R5 (16GB+512GB):honor_cn
 HLYL-WFP9:荣耀 MagicBook Pro 2020 R7 (16GB+512GB):honor_cn
+HYLR-WDQ9:荣耀 MagicBook Pro 2020 R5 (16GB+512GB):honor_cn
 HYLR-WFP9:荣耀 MagicBook Pro 2020 R7 (16GB+512GB):honor_cn
+HGE-W56:荣耀 MagicBook V 14 i5:honor_cn
+HGE-W76:荣耀 MagicBook V 14 i7:honor_cn
+NBR-WAI9:荣耀 MagicBook X 14 i3:honor_cn
+NBR-WAH9:荣耀 MagicBook X 14 i5:honor_cn
+BBR-WAI9:荣耀 MagicBook X 15 i3:honor_cn
+BBR-WAH9:荣耀 MagicBook X 15 i5:honor_cn
 FRD-WDG9:荣耀猎人游戏本 V700 i5 (8GB+512GB):honor_cn
 FRD-WFG9:荣耀猎人游戏本 V700 i5 (16GB+512GB):honor_cn
 FRD-WFD9:荣耀猎人游戏本 V700 i7 (16GB+512GB):honor_cn
@@ -779,10 +836,14 @@ LOK-330:荣耀智慧屏 X1 50 英寸:honor_cn
 LOK-350:荣耀智慧屏 X1 55 英寸 (2GB+16GB):honor_cn
 LOK-350C:荣耀智慧屏 X1 55 英寸 (2GB+16GB):honor_cn
 LOK-350S:荣耀智慧屏 X1 55 英寸 (4GB+32GB):honor_cn
+HN55LOKS:荣耀智慧屏 X1 55 英寸 2022 款 (4GB+32GB):honor_cn
 LOK-360:荣耀智慧屏 X1 65 英寸 (2GB+16GB):honor_cn
 LOK-360C:荣耀智慧屏 X1 65 英寸 (2GB+16GB):honor_cn
 LOK-360S:荣耀智慧屏 X1 65 英寸 (4GB+32GB):honor_cn
+HN65LOKS:荣耀智慧屏 X1 65 英寸 2022 款 (4GB+32GB):honor_cn
 LOK-370:荣耀智慧屏 X1 75 英寸:honor_cn
+HN55DNTA:荣耀智慧屏 X2 55 英寸:honor_cn
+HN65DNTA:荣耀智慧屏 X2 65 英寸:honor_cn
 HUAWEI U8860:Honor 联通版:honor_cn
 HUAWEI C8860E:Honor 电信版:honor_cn
 HUAWEI T8950:Honor+ 移动版:honor_cn
@@ -1056,6 +1117,8 @@ BRQ-AL00:HUAWEI nova 8 Pro 4G 全网通版:huawei_cn
 JSC-AN00:HUAWEI nova 8 SE 5G 全网通版:huawei_cn
 JSC-TN00:HUAWEI nova 8 SE 5G 移动全网通版:huawei_cn
 CHL-AL60:HUAWEI nova 8 SE 活力版 全网通版:huawei_cn
+NAM-AL00:HUAWEI nova 9 4G 全网通版:huawei_cn
+RTE-AL00:HUAWEI nova 9 Pro 4G 全网通版:huawei_cn
 HUAWEI G6-T00:华为 Ascend G6 移动版:huawei_cn
 HUAWEI G6-U00:华为 Ascend G6 联通版:huawei_cn
 HUAWEI G6-C00:华为 Ascend G6 电信版:huawei_cn
@@ -1935,12 +1998,16 @@ L32M6-EI:Mi TV 4A 32 Horizon:Xiaomi
 L43M6-EI:Mi TV 4A 43 Horizon:Xiaomi
 L55M5-AI:Mi LED Smart TV 4 55:Xiaomi
 L55M5-AN:Mi LED Smart TV 4 Pro 55:Xiaomi
+L32M6-INC:Mi TV 4C 32:Xiaomi
 L32M5-AN:Mi LED Smart TV 4C Pro 32:Xiaomi
 L43M4-4AIN:Mi TV 4X 43:Xiaomi
 L50M5-5AIN:Mi TV 4X 50:Xiaomi
 L55M4-4XINA:Mi LED Smart TV 4X Pro 55:Xiaomi
 L55M5-5XIN:Mi TV 4X 55:Xiaomi
 L65M5-5SIN:Mi TV 4X 65:Xiaomi
+L43M6-ES:Mi TV 5X 43:Xiaomi
+L50M6-ES:Mi TV 5X 50:Xiaomi
+L55M6-ES:Mi TV 5X 55:Xiaomi
 L55M6-EQG:Mi QLED TV Q1 4K 55:Xiaomi
 L75M6-ESG:Mi QLED TV Q1 75:Xiaomi
 L50M6-RA:Redmi Smart TV X50:Xiaomi
@@ -1961,6 +2028,14 @@ L32M5-5ASP:Mi TV 4A 32:Xiaomi
 L43M5-5ASP:Mi TV 4S 43:Xiaomi
 L55M5-5ASP:Mi TV 4S 55:Xiaomi
 L65M5-5ASP:Mi TV 4S 65:Xiaomi
+L32M6-6AEU:Mi TV P1 32:Xiaomi
+L43M6-6AEU:Mi TV P1 43:Xiaomi
+L50M6-6AEU:Mi TV P1 50:Xiaomi
+L55M6-6AEU:Mi TV P1 55:Xiaomi
+L32M6-6ARG:Mi TV P1 32:Xiaomi
+L43M6-6ARG:Mi TV P1 43:Xiaomi
+L50M6-6ARG:Mi TV P1 50:Xiaomi
+L55M6-6ARG:Mi TV P1 55:Xiaomi
 L75M6-ESG:Mi TV Q1 75:Xiaomi
 MDZ-16-AB:Mi Box:Xiaomi
 MDZ-22-AB:Mi Box S:Xiaomi
@@ -2132,6 +2207,8 @@ LE2121:OnePlus 9 Pro 印度版:OnePlus
 LE2123:OnePlus 9 Pro 欧洲/国际版:OnePlus
 LE2125:OnePlus 9 Pro 北美版:OnePlus
 LE2127:OnePlus 9 Pro T-Mobile 版:OnePlus
+MT2110:OnePlus 9RT 全网通版:OnePlus
+MT2111:OnePlus 9RT 印度版:OnePlus
 AC2001:OnePlus Nord 印度版:OnePlus
 AC2003:OnePlus Nord 欧洲/国际版:OnePlus
 BE2025:OnePlus Nord N10 Metro 版:OnePlus
@@ -2225,6 +2302,7 @@ PCHM30:OPPO A11x 全网通版:oppo_cn
 PCHT30:OPPO A11x 移动版:oppo_cn
 PCHM00:OPPO A11n 全网通版:oppo_cn
 PCHT00:OPPO A11n 移动版:oppo_cn
+PDVM00:OPPO A11s 全网通版:oppo_cn
 PDVM00:OPPO A32 全网通版:oppo_cn
 PEFM00:OPPO A35 全网通版:oppo_cn
 PDAM10:OPPO A52 全网通版:oppo_cn
@@ -2254,6 +2332,7 @@ PCNT00:OPPO K5 移动版:oppo_cn
 PCLM50:OPPO K7 全网通版:oppo_cn
 PERM00:OPPO K7x 全网通版:oppo_cn
 PEXM00:OPPO K9 全网通版:oppo_cn
+PEYM00:OPPO K9 Pro 全网通版:oppo_cn
 OW19W1:OPPO Watch 46mm:oppo_cn
 OW19W2:OPPO Watch 41mm:oppo_cn
 OW19W3:OPPO Watch 46mm ECG/精钢版:oppo_cn
@@ -2410,6 +2489,7 @@ RMX2111:真我 V5 5G 全网通版:realme_cn
 RMX2112:真我 V5 5G 运营商定制版:realme_cn
 RMX3121:真我 V11 5G 全网通版:realme_cn
 RMX3122:真我 V11 5G 运营商定制版:realme_cn
+RMX3125:真我 V11s 5G 全网通版:realme_cn
 RMX3041:真我 V13 5G 全网通版:realme_cn
 RMX3043:真我 V13 5G 运营商定制版:realme_cn
 RMX3092:真我 V15 5G 全网通版:realme_cn
@@ -2427,6 +2507,7 @@ RMX3031:真我 GT Neo 5G:realme_cn
 RMX3350:真我 GT Neo 闪速版 5G:realme_cn
 RMX3361:真我 GT 大师版 5G:realme_cn
 RMX3366:真我 GT 大师探索版 5G:realme_cn
+RMX3370:真我 GT Neo2 5G:realme_cn
 CPH1859:realme 1:realme
 CPH1861:realme 1:realme
 RMX1805:realme 2:realme
@@ -2517,6 +2598,7 @@ RMX3191:realme C25:realme
 RMX3193:realme C25:realme
 RMX3195:realme C25s:realme
 RMX3197:realme C25s:realme
+RMX3265:realme C25Y:realme
 RMX1831:realme U1:realme
 RMX1833:realme U1:realme
 RMX2002:realme Narzo Indonesia:realme
@@ -2524,15 +2606,19 @@ RMX2040:realme Narzo 10 India:realme
 RMX2020:realme Narzo 10A India:realme
 RMX2191:realme Narzo 20 Global:realme
 RMX2193:realme Narzo 20 India:realme
-RMX2161:realme Narzo 20 Pro India:realme
-RMX2050:realme Narzo 20A India:realme
+RMX2161:realme Narzo 20 Pro:realme
+RMX2050:realme Narzo 20A:realme
 RMX2156:realme Narzo 30 4G:realme
 RMX3242:realme Narzo 30 5G:realme
-RMX2117:realme Narzo 30 Pro 5G India:realme
-RMX3171:realme Narzo 30A India:realme
+RMX2117:realme Narzo 30 Pro 5G:realme
+RMX3171:realme Narzo 30A:realme
+RMX3430:realme Narzo 50A:realme
+RMX3231:realme Narzo 50i:realme
 RMX2202:realme GT 5G:realme
 RMX3360:realme GT Master Edition:realme
+RMX3363:realme GT Master Edition:realme
 RMP2102:realme Pad:realme
+RMP2103:realme Pad:realme
 GT-I9000:Galaxy S 公开版:Samsung
 GT-I9008:Galaxy S 移动定制版:Samsung
 GT-I9008L:Galaxy S 移动定制版:Samsung
@@ -2931,6 +3017,7 @@ V2118A:iQOO Neo5 活力版 5G 全网通版:vivo
 V1986A:iQOO Z1 5G 全网通版:vivo
 V2012A:iQOO Z1x 5G 全网通版:vivo
 V2073A:iQOO Z3 5G 全网通版:vivo
+V2148A:iQOO Z5 5G 全网通版:vivo
 V2023A:iQOO U1 全网通版:vivo
 V2065A:iQOO U1x 全网通版:vivo
 V2061A:iQOO U3 5G 全网通版:vivo
@@ -3029,9 +3116,14 @@ M2101K9G:小米 11 Lite 5G 国际版:Xiaomi
 M2101K9R:小米 11 Lite 5G 日本版:Xiaomi
 M2101K9AG:小米 11 Lite 4G 国际版:Xiaomi
 M2101K9AI:小米 11 Lite 4G 印度版:Xiaomi
+2109119DG:Xiaomi 11 Lite 5G NE 国际版:Xiaomi
+2109119DI:Xiaomi 11 Lite NE 5G 印度版:Xiaomi
 M2012K11G:小米 11i 国际版:Xiaomi
 M2012K11AI:小米 11X 印度版:Xiaomi
 M2012K11I:小米 11X Pro 印度版:Xiaomi
+21081111RG:Xiaomi 11T 国际版:Xiaomi
+2107113SG:Xiaomi 11T Pro 国际版:Xiaomi
+2107113SR:Xiaomi 11T Pro 日本版:Xiaomi
 2014616:小米 Note 双网通版:Xiaomi
 2014619:小米 Note 全网通版:Xiaomi
 2014618:小米 Note 移动合约版:Xiaomi
@@ -3074,6 +3166,7 @@ M1904F3BC:小米 CC9 全网通版:Xiaomi
 M1904F3BT:小米 CC9 美图定制版:Xiaomi
 M1906F9SC:小米 CC9e 全网通版:Xiaomi
 M1910F4E:小米 CC9 Pro 全网通版:Xiaomi
+2109119BC:Xiaomi Civi 全网通版:Xiaomi
 M1901F9E:小米 Play 全网通版:Xiaomi
 M1901F9T:小米 Play 移动 4G+ 版:Xiaomi
 MDG2:小米 A1 国际版:Xiaomi
@@ -3191,12 +3284,12 @@ M2004J19AG:Redmi 9 国际版 (NFC):Xiaomi
 M2006C3LC:Redmi 9A 全网通版:Xiaomi
 M2006C3LG:Redmi 9A 国际版:Xiaomi
 M2006C3LVG:Redmi 9AT 国际版:Xiaomi
-M2006C3LI:Redmi 9A 印度版:Xiaomi
-M2006C3LII:Redmi 9i 印度版:Xiaomi
+M2006C3LI:Redmi 9A / Redmi 9A Sport 印度版:Xiaomi
+M2006C3LII:Redmi 9i / Redmi 9i Sport 印度版:Xiaomi
 M2006C3MG:Redmi 9C 国际版:Xiaomi
 M2006C3MT:Redmi 9C 泰国版:Xiaomi
 M2006C3MNG:Redmi 9C NFC 国际版:Xiaomi
-M2006C3MII:Redmi 9 印度版:Xiaomi
+M2006C3MII:Redmi 9 / Redmi 9 Activ 印度版:Xiaomi
 M2010J19SG:Redmi 9T 国际版:Xiaomi
 M2010J19SI:Redmi 9 Power 印度版:Xiaomi
 M2010J19SR:Redmi 9T 日本版:Xiaomi
@@ -3308,6 +3401,7 @@ M2101K6R:Redmi Note 10 Pro 日本版:Xiaomi
 M2101K6P:Redmi Note 10 Pro 印度版:Xiaomi
 M2101K6I:Redmi Note 10 Pro Max 印度版:Xiaomi
 M2104K10AC:Redmi Note 10 Pro 5G 全网通版:Xiaomi
+2109106A1I:Redmi Note 10 Lite 印度版:Xiaomi
 M2004J7AC:Redmi 10X 5G 全网通版:Xiaomi
 M2004J7BC:Redmi 10X Pro 5G 全网通版:Xiaomi
 M2003J15SC:Redmi 10X 4G 全网通版:Xiaomi
@@ -3364,6 +3458,7 @@ M2103K19PG:POCO M3 Pro 5G 国际版:Xiaomi
 M2103K19PY:POCO M3 Pro 5G 国际版:Xiaomi
 M2103K19PI:POCO M3 Pro 5G 印度版:Xiaomi
 M2006C3MI:POCO C3 印度版:Xiaomi
+211033MI:POCO C31 印度版:Xiaomi
 SKR-A0:黑鲨游戏手机 全网通版:Xiaomi
 SKR-H0:黑鲨游戏手机 国际版:Xiaomi
 AWM-A0:黑鲨游戏手机 Helo:Xiaomi
@@ -3376,9 +3471,11 @@ SHARK KLE-H0:黑鲨游戏手机 3 国际版:Xiaomi
 SHARK MBU-A0:腾讯黑鲨游戏手机 3 Pro 全网通版:Xiaomi
 SHARK MBU-H0:黑鲨游戏手机 3 Pro 国际版:Xiaomi
 SHARK KLE-A0:腾讯黑鲨游戏手机 3S 全网通版:Xiaomi
-SHARK PRS-A0:黑鲨游戏手机 4 全网通版:Xiaomi
-SHARK PRS-H0:黑鲨游戏手机 4 国际版:Xiaomi
-SHARK KSR-A0:黑鲨游戏手机 4 Pro 全网通版:Xiaomi
+SHARK PRS-A0:黑鲨 4 全网通版:Xiaomi
+SHARK PRS-H0:黑鲨 4 国际版:Xiaomi
+SHARK KSR-A0:黑鲨 4 Pro 全网通版:Xiaomi
+SHARK PRS-A0:黑鲨 4S 全网通版:Xiaomi
+SHARK KSR-A0:黑鲨 4S Pro 全网通版:Xiaomi
 XMWT01:小米手表:Xiaomi
 FYJ01QP:小米米家翻译机:Xiaomi
 ZTE A2017:中兴天机 7:zte
