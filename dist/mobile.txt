@@ -7,8 +7,8 @@
 # 格式：
 # >>> 型号:名称:品牌
 #
-# 包含记录：4039
-# 更新时间：2022-09-30 16:46:58.051593
+# 包含记录：4281
+# 更新时间：2023-02-23 21:31:50.164242
 #
 # 数据维护：hectorqiuiscool@gmail.com
 #
@@ -201,6 +201,7 @@ Watch6,9:Apple Watch Series 7 45mm case (GPS+Cellular):Apple
 8692-A00:360 手机奇酷旗舰极客版:360
 QSN2112:奇少年 Q10:360
 QSN2201:奇少年 Q10 Pro 5G:360
+QSN2211:奇少年 Q20:360
 QSN2207:奇少年 Q20 Pro 5G:360
 ASUS_Z01QD:ROG 游戏手机:asus
 ASUS_I001DA:ROG 游戏手机 2:asus
@@ -215,6 +216,69 @@ ASUS_AI2201_B:腾讯 ROG 游戏手机 6 Pro:asus
 ASUS_AI2203_A:腾讯 ROG 游戏手机 6 天玑版:asus
 ASUS_AI2203_B:腾讯 ROG 游戏手机 6 天玑至尊版:asus
 ASUS_I007D:Smartphone for Snapdragon Insiders:asus
+SKR-A0:黑鲨游戏手机 全网通版:blackshark
+SKR-H0:黑鲨游戏手机 国际版:blackshark
+AWM-A0:黑鲨游戏手机 Helo:blackshark
+SKW-A0:黑鲨游戏手机 2 全网通版:blackshark
+SKW-H0:黑鲨游戏手机 2 国际版:blackshark
+DLT-A0:黑鲨游戏手机 2 Pro 全网通版:blackshark
+DLT-H0:黑鲨游戏手机 2 Pro 国际版:blackshark
+SHARK KLE-A0:腾讯黑鲨游戏手机 3 全网通版:blackshark
+SHARK KLE-H0:黑鲨游戏手机 3 国际版:blackshark
+SHARK MBU-A0:腾讯黑鲨游戏手机 3 Pro 全网通版:blackshark
+SHARK MBU-H0:黑鲨游戏手机 3 Pro 国际版:blackshark
+SHARK KLE-A0:腾讯黑鲨游戏手机 3S 全网通版:blackshark
+SHARK PRS-A0:黑鲨 4 全网通版:blackshark
+SHARK PRS-H0:黑鲨 4 国际版:blackshark
+SHARK KSR-A0:黑鲨 4 Pro 全网通版:blackshark
+SHARK KSR-H0:黑鲨 4 Pro 国际版:blackshark
+SHARK PRS-A0:黑鲨 4S 全网通版:blackshark
+SHARK KSR-A0:黑鲨 4S Pro 全网通版:blackshark
+SHARK PAR-A0:黑鲨 5 全网通版 / 黑鲨 5 高能版:blackshark
+SHARK PAR-H0:黑鲨 5 国际版:blackshark
+SHARK KSR-A0:黑鲨 5 RS 全网通版:blackshark
+SHARK KTUS-A0:黑鲨 5 Pro 全网通版:blackshark
+SHARK KTUS-H0:黑鲨 5 Pro 国际版:blackshark
+C105:酷派 COOL Changer S1:coolpad
+C105-6:酷派 COOL Changer S1:coolpad
+C105-8:酷派 COOL Changer S1:coolpad
+C106:酷派 COOL 1 dual:coolpad
+C106-6:酷派 COOL 1 dual:coolpad
+C106-7:酷派 COOL 1 dual:coolpad
+C106-8:酷派 COOL 1 dual:coolpad
+C106-9:酷派 COOL 1 dual:coolpad
+C107:酷派 COOL 1C:coolpad
+C107-9:酷派 COOL 1C:coolpad
+POL-A0:酷派 COOL M7 全网通版:coolpad
+POL-T0:酷派 COOL M7 移动版:coolpad
+VCR-A0:酷派酷玩 6:coolpad
+GRA-A0:酷派酷玩 6C:coolpad
+GRA-M0:酷派酷玩 6C:coolpad
+1871-A0:酷派 COOL 2:coolpad
+MTS-T0:酷派锋尚 N2M:coolpad
+ART-T0:酷派锋尚 N2D:coolpad
+1802-T0:酷派锋尚 K2:coolpad
+1812-A0:酷派锋尚 K2 Max:coolpad
+1841-C0:酷派锋尚 N3:coolpad
+1801-T0:酷派锋尚 N3M:coolpad
+1822-C0:酷派锋尚 N3C:coolpad
+1821-T0:酷派锋尚 N3D:coolpad
+1872-A0:酷派酷玩 7:coolpad
+1831-A0:酷派酷玩 7C:coolpad
+1873-A0:酷派酷玩 8:coolpad
+1832-A0:酷派酷玩 8 Lite:coolpad
+ORL-C0:酷派 COOL 9 / 酷派 COOL 9s:coolpad
+ORL-T0:酷派 COOL 9A:coolpad
+SAC-A0:Coolpad 26:coolpad
+CHA-A0:酷派酷玩 10:coolpad
+SEA-A0:酷派 COOL 10 / 酷派锋尚 N5:coolpad
+DET-A0:酷派 COOL 10C:coolpad
+BOS-A0:酷派 COOL 10 青春版:coolpad
+HOU-5GA:酷派 X10:coolpad
+PHO-5GT:酷派锋尚 A11:coolpad
+CP03:酷派 COOL 20:coolpad
+CP05:酷派 COOL 20 Pro 5G:coolpad
+CP07:酷派 COOL 20s 5G:coolpad
 H60-L01:荣耀 6 移动版:HONOR
 H60-L02:荣耀 6 联通版:HONOR
 H60-L03:荣耀 6 移动定制版:HONOR
@@ -294,6 +358,11 @@ GIA-AN00:荣耀 60 SE 5G 全网通版:HONOR
 FNE-AN00:荣耀 70 5G 全网通版:HONOR
 SDY-AN00:荣耀 70 Pro 5G 全网通版:HONOR
 HPB-TN00:荣耀 70 Pro+ 5G 全网通版:HONOR
+ANN-AN00:荣耀 80 5G 全网通版:HONOR
+ANP-AN00:荣耀 80 Pro 5G 全网通版:HONOR
+ANB-AN00:荣耀 80 Pro 直屏版 5G 全网通版:HONOR
+GIA-AN80:荣耀 80 SE 5G 全网通版:HONOR
+AGT-AN00:荣耀 80 GT 5G 全网通版:HONOR
 KNT-AL10:荣耀 V8 全网通版:HONOR
 KNT-AL20:荣耀 V8 全网通版 (麒麟 955, 2K 显示屏):HONOR
 KNT-TL10:荣耀 V8 移动版:HONOR
@@ -321,6 +390,8 @@ MGI-AN00:荣耀 Magic V 5G 全网通版:HONOR
 LGE-AN00:荣耀 Magic4 5G 全网通版:HONOR
 LGE-AN10:荣耀 Magic4 Pro 5G 全网通版:HONOR
 LGE-AN20:荣耀 Magic4 至臻版 5G 全网通版:HONOR
+FRI-AN00:荣耀 Magic Vs 5G 全网通版:HONOR
+FRI-AN10:荣耀 Magic Vs 至臻版 5G 全网通版:HONOR
 G750-T00:荣耀 3X 双 3G 版:HONOR
 G750-U00:荣耀 3X 联通版:HONOR
 G750-T20:荣耀 3X Pro:HONOR
@@ -370,6 +441,7 @@ TFY-AN00:荣耀 X30i 5G 全网通版:HONOR
 KKG-AN70:荣耀 X30 Max 5G 全网通版:HONOR
 RMO-AN00:荣耀 X40 5G 全网通版:HONOR
 DIO-AN00:荣耀 X40i 5G 全网通版:HONOR
+ADT-AN00:荣耀 X40 GT 5G 全网通版:HONOR
 JMM-AL00:荣耀 V9 Play 全网通标配版:HONOR
 JMM-AL10:荣耀 V9 Play 全网通高配版:HONOR
 JMM-TL00:荣耀 V9 Play 移动定制标配版:HONOR
@@ -392,6 +464,7 @@ NZA-AL00:荣耀 Play5T 活力版 全网通版:HONOR
 CHL-AL00:荣耀 Play5T Pro 全网通版:HONOR
 CMA-AN40:荣耀 Play6T 5G 全网通版:HONOR
 TFY-AN40:荣耀 Play6T Pro 5G 全网通版:HONOR
+VNE-AN40:荣耀 Play6C 5G 全网通版:HONOR
 EDI-AL10:荣耀 Note8 全网通版:HONOR
 EDI-DL00:荣耀 Note8 移动/联通版:HONOR
 RVL-AL09:荣耀 Note10 全网通版:HONOR
@@ -452,9 +525,12 @@ MOA-AL00:荣耀畅玩 9A 全网通版:HONOR
 MOA-AL20:荣耀畅玩 9A 全网通版:HONOR
 MOA-TL00:荣耀畅玩 9A 移动 4G+ 版:HONOR
 KOZ-AL00:荣耀畅玩 20 全网通版:HONOR
+KOZ-AL00CM:荣耀畅玩 20a 全网通版:HONOR
 HJC-LX9:荣耀畅玩 20 Pro 全网通版:HONOR
 VNE-AN00:荣耀畅玩 30 5G 全网通版:HONOR
+VNE-AN40:荣耀畅玩 30M 5G 全网通版:HONOR
 CMA-AN00:荣耀畅玩 30 Plus 5G 全网通版:HONOR
+RKY-AN00:荣耀畅玩 40 Plus 5G 全网通版:HONOR
 S8-701w:荣耀平板 Wi-Fi 版:HONOR
 S8-701u:荣耀平板 3G 版:HONOR
 T1-821w:荣耀平板优享版:HONOR
@@ -485,6 +561,7 @@ AGM-W09HN:荣耀平板 Z3 9.7 英寸 Wi-Fi 版:HONOR
 AGM-AL09HN:荣耀平板 Z3 9.7 英寸 全网通版:HONOR
 AGM3-W09HN:荣耀平板 X8 10.1 英寸 Wi-Fi 版:HONOR
 HEY-W09:荣耀平板 8 12 英寸 Wi-Fi 版:HONOR
+ROD-W09:荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版:HONOR
 HDN-W09:荣耀 Waterplay 10.1 英寸 Wi-Fi 版:HONOR
 HDN-L09:荣耀 Waterplay 10.1 英寸 LTE 版:HONOR
 HDL-W09:荣耀 Waterplay 8 英寸 Wi-Fi 版:HONOR
@@ -529,11 +606,13 @@ Nbl-WAQ9HNL:荣耀 MagicBook 14 科技尝鲜版 R5:HONOR
 Nbl-WAP9HNL:荣耀 MagicBook 14 科技尝鲜版 R7:HONOR
 NblL-WFQ9HN:荣耀 MagicBook 14 2020 R5:HONOR
 NblL-WFP9HN:荣耀 MagicBook 14 2020 R7:HONOR
+NbD-WFH9HN:荣耀 MagicBook 14 2021 i5:HONOR
+NbD-WFE9HN:荣耀 MagicBook 14 2021 i7:HONOR
 NDR-WFH9HN:荣耀 MagicBook 14 2021 i5:HONOR
 NDR-WFE9HN:荣耀 MagicBook 14 2021 i7:HONOR
 NLR-WAQ9HNRP:荣耀 MagicBook 14 SE 2021 R5:HONOR
 NLR-WAQ9HNR:荣耀 MagicBook 14 SE 2021 R5:HONOR
-NMH-WDQ9HN:荣耀 MagicBook 14 2021 R5 (8GB+256GB):HONOR
+NMH-WDQ9HN:荣耀 MagicBook 14 2021 R5 (8GB+256GB/8GB+512GB):HONOR
 NMH-WFQ9HN:荣耀 MagicBook 14 2021 R5 (16GB+512GB):HONOR
 NMH-WFP9HN:荣耀 MagicBook 14 2021 R7:HONOR
 GLO-F56:荣耀 MagicBook 14 2022 i5:HONOR
@@ -551,6 +630,8 @@ Boh-WAP9HNL:荣耀 MagicBook 15 科技尝鲜版 R7:HONOR
 BohL-WDQ9HN:荣耀 MagicBook 15 2020 R5 (8GB+256GB):HONOR
 BohL-WFQ9HN:荣耀 MagicBook 15 2020 R5 (16GB+512GB):HONOR
 BohL-WFP9HN:荣耀 MagicBook 15 2020 R7:HONOR
+BoD-WFH9HN:荣耀 MagicBook 15 2021 i5:HONOR
+BoD-WFE9HN:荣耀 MagicBook 15 2021 i7:HONOR
 BDR-WFH9HN:荣耀 MagicBook 15 2021 i5:HONOR
 BDR-WFE9HN:荣耀 MagicBook 15 2021 i7:HONOR
 BMH-WDQ9HN:荣耀 MagicBook 15 2021 R5 (8GB+256GB):HONOR
@@ -566,12 +647,12 @@ HLY-W29R:荣耀 MagicBook Pro R7:HONOR
 HLY-W19RL:荣耀 MagicBook Pro 科技尝鲜版 R5:HONOR
 HLY-W19RLP:荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB):HONOR
 HLY-W29RL:荣耀 MagicBook Pro 科技尝鲜版 R7:HONOR
-HBB-WAH9PHNL:荣耀 MagicBook Pro 2020 i5 (16GB+512GB):HONOR
-HBB-WAE9PHNL:荣耀 MagicBook Pro 2020 i7 (16GB+512GB):HONOR
-HLYL-WFQ9:荣耀 MagicBook Pro 2020 R5 (16GB+512GB):HONOR
-HLYL-WFP9:荣耀 MagicBook Pro 2020 R7 (16GB+512GB):HONOR
-HYLR-WDQ9:荣耀 MagicBook Pro 2020 R5 (16GB+512GB):HONOR
-HYLR-WFP9:荣耀 MagicBook Pro 2020 R7 (16GB+512GB):HONOR
+HBB-WAH9PHNL:荣耀 MagicBook Pro 2020 i5:HONOR
+HBB-WAE9PHNL:荣耀 MagicBook Pro 2020 i7:HONOR
+HLYL-WFQ9:荣耀 MagicBook Pro 2020 R5:HONOR
+HLYL-WFP9:荣耀 MagicBook Pro 2020 R7:HONOR
+HYLR-WDQ9:荣耀 MagicBook Pro 2020 R5:HONOR
+HYLR-WFP9:荣耀 MagicBook Pro 2020 R7:HONOR
 HYM-W56:荣耀 MagicBook 16 2021 R5:HONOR
 HYM-W76:荣耀 MagicBook 16 2021 R7:HONOR
 HYM-W76:荣耀 MagicBook 16 Pro 2021 R7:HONOR
@@ -590,7 +671,9 @@ BDR-WFH:荣耀 MagicBook X 15 2022 i5 (16GB+512GB):HONOR
 BRN-F56:荣耀 MagicBook X 16 2022 i5:HONOR
 FRD-WDG9:荣耀猎人游戏本 V700 i5 (8GB+512GB):HONOR
 FRD-WFG9:荣耀猎人游戏本 V700 i5 (16GB+512GB):HONOR
+FRR-WFG9:荣耀猎人游戏本 V700 i5 (16GB+512GB):HONOR
 FRD-WFD9:荣耀猎人游戏本 V700 i7 (16GB+512GB):HONOR
+FRR-WFD9:荣耀猎人游戏本 V700 i7 (16GB+512GB):HONOR
 OSCA-550A:荣耀智慧屏 55 英寸 (2GB+16GB):HONOR
 OSCA-550AX:荣耀智慧屏 55 英寸 (4GB+32GB):HONOR
 OSCA-550:荣耀智慧屏 PRO 55 英寸 (2GB+32GB):HONOR
@@ -722,17 +805,31 @@ FNE-NX9:HONOR 70 5G:HONOR
 LGE-NX9:HONOR Magic4 Pro 5G:HONOR
 ANY-LX1:HONOR Magic4 Lite:HONOR
 ANY-NX1:HONOR Magic4 Lite 5G:HONOR
+RMO-NX1:HONOR Magic5 Lite 5G:HONOR
+VNA-LX2:HONOR X5:HONOR
+VNA-LX3:HONOR X5:HONOR
+VNE-LX1:HONOR X6:HONOR
+VNE-LX2:HONOR X6:HONOR
+VNE-LX3:HONOR X6:HONOR
+VNE-LX3:HONOR X6s:HONOR
 CMA-LX1:HONOR X7:HONOR
 CMA-LX2:HONOR X7:HONOR
 CMA-LX3:HONOR X7:HONOR
+RKY-LX1:HONOR X7a:HONOR
+RKY-LX2:HONOR X7a:HONOR
+RKY-LX3:HONOR X7a:HONOR
 TFY-LX1:HONOR X8:HONOR
 TFY-LX2:HONOR X8:HONOR
 TFY-LX3:HONOR X8:HONOR
+CRT-LX1:HONOR X8a:HONOR
+CRT-LX2:HONOR X8a:HONOR
+CRT-LX3:HONOR X8a:HONOR
 VNE-N41:HONOR X8 5G:HONOR
 ANY-LX1:HONOR X9:HONOR
 ANY-LX2:HONOR X9:HONOR
 ANY-LX3:HONOR X9:HONOR
 ANY-NX1:HONOR X9 5G:HONOR
+RMO-NX1:HONOR X9a 5G:HONOR
 HEY-W09:HONOR Pad 8:HONOR
 AGM3-W09HN:HONOR Pad X8 Wi-Fi:HONOR
 AGM3-AL09HN:HONOR Pad X8 LTE:HONOR
@@ -793,6 +890,7 @@ NOH-AN01:HUAWEI Mate 40 Pro 5G 全网通版:HUAWEI
 NOH-AL00:HUAWEI Mate 40 Pro 4G 全网通版:HUAWEI
 NOH-AL10:HUAWEI Mate 40 Pro 4G 全网通版:HUAWEI
 NOH-AN50:HUAWEI Mate 40E Pro 5G 全网通版:HUAWEI
+NOH-AN80:HUAWEI Mate 40E Pro 5G 全网通版:HUAWEI
 NOP-AN00:HUAWEI Mate 40 Pro+ 5G 全网通版:HUAWEI
 NOP-AN00:HUAWEI Mate 40 RS 保时捷设计:HUAWEI
 CET-AL00:HUAWEI Mate 50 4G 全网通版:HUAWEI
@@ -868,7 +966,7 @@ JAD-AL80:HUAWEI P50 Pro 4G 全网通版 (骁龙 888):HUAWEI
 JAD-AL50:HUAWEI P50 Pro 4G 全网通版 (麒麟 9000):HUAWEI
 JAD-AL60:HUAWEI P50 Pro 4G 全网通版 (麒麟 9000):HUAWEI
 BAL-AL00:HUAWEI P50 Pocket 4G 全网通版:HUAWEI
-BAL-AL80:HUAWEI P50 Pocket New 4G 全网通版:HUAWEI
+BAL-AL60:HUAWEI Pocket S 4G 全网通版:HUAWEI
 HUAWEI CAZ-AL00:HUAWEI nova 全网通标配版:HUAWEI
 HUAWEI CAZ-AL10:HUAWEI nova 全网通高配版:HUAWEI
 HUAWEI CAZ-TL10:HUAWEI nova 移动定制标配版:HUAWEI
@@ -933,6 +1031,7 @@ JLN-AL00:HUAWEI nova 9 SE 4G 全网通版:HUAWEI
 NCO-AL00:HUAWEI nova 10 4G 全网通版:HUAWEI
 GLA-AL00:HUAWEI nova 10 Pro 4G 全网通版:HUAWEI
 CHA-AL80:HUAWEI nova 10z 全网通版:HUAWEI
+BNE-AL00:HUAWEI nova 10 SE 全网通版:HUAWEI
 HUAWEI G6-T00:华为 Ascend G6 移动版:HUAWEI
 HUAWEI G6-U00:华为 Ascend G6 联通版:HUAWEI
 HUAWEI G6-C00:华为 Ascend G6 电信版:HUAWEI
@@ -1035,6 +1134,7 @@ MLD-AL00:华为畅享 20e 全网通版 (麒麟 710A):HUAWEI
 MLD-AL10:华为畅享 20e 全网通版 (Helio P35):HUAWEI
 MGA-AL00:华为畅享 50 全网通版:HUAWEI
 CTR-AL00:华为畅享 50 Pro 全网通版:HUAWEI
+EVE-AL00:华为畅享 50z 全网通版:HUAWEI
 S8-301W:华为 MediaPad M1 Wi-Fi 版:HUAWEI
 S8-301U:华为 MediaPad M1 3G 版:HUAWEI
 S8-303L:华为 MediaPad M1 LTE 版:HUAWEI
@@ -1099,10 +1199,12 @@ BAH4-W09:HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A):HUAWEI
 BAH4-W29:HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A):HUAWEI
 BAH4-W19:HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G):HUAWEI
 BAH4-AL10:HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G):HUAWEI
-HMW-W09:HUAWEI MatePad Paper 10.3 英寸:HUAWEI
-HMW-W59:HUAWEI MatePad Paper 典藏版 10.3 英寸:HUAWEI
+HMW-W09:HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版:HUAWEI
+HMW-AL10:HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版:HUAWEI
 AGS3K-W20:HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版:HUAWEI
 AGS3K-AL20:HUAWEI MatePad SE 10.1 英寸 全网通版:HUAWEI
+AGS5-W00:HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版:HUAWEI
+AGS5-AL00:HUAWEI MatePad SE 10.4 英寸 全网通版:HUAWEI
 AGS2-W09:华为畅享平板 10.1 英寸 Wi-Fi 版:HUAWEI
 AGS2-AL00:华为畅享平板 10.1 英寸 全网通版:HUAWEI
 AGS3-W00D:华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB):HUAWEI
@@ -1237,6 +1339,8 @@ NbDE-WFE9:HUAWEI MateBook D 14 (2022) i7:HUAWEI
 NbDE-WDH9:HUAWEI MateBook D 14 SE i5:HUAWEI
 NbF-08:HUAWEI MateBook D 14 (2022) 12 代酷睿版 (8GB 内存):HUAWEI
 NbF-16:HUAWEI MateBook D 14 (2022) 12 代酷睿版 (16GB 内存):HUAWEI
+NbF-08:HUAWEI MateBook D 14 SE 12 代酷睿版 (8GB 内存):HUAWEI
+NbF-16:HUAWEI MateBook D 14 SE 12 代酷睿版 (16GB 内存):HUAWEI
 Boh-WAQ9R:HUAWEI MateBook D 15 R5 (8GB+512GB):HUAWEI
 Boh-WAQ9RP:HUAWEI MateBook D 15 R5 (16GB+256GB+1TB):HUAWEI
 Boh-WAQ9L:HUAWEI MateBook D 15 R5 Linux 版:HUAWEI
@@ -1251,6 +1355,8 @@ BoM-WFQ9:HUAWEI MateBook D 15 (2021) R5:HUAWEI
 BoM-WFP9:HUAWEI MateBook D 15 (2021) R7:HUAWEI
 BoDE-WFH9:HUAWEI MateBook D 15 (2022) i5:HUAWEI
 BoDE-WFE9:HUAWEI MateBook D 15 (2022) i7:HUAWEI
+BoDE-WDH9:HUAWEI MateBook D 15 SE i5:HUAWEI
+BoF-16:HUAWEI MateBook D 15 (2022) 12 代酷睿版 (16GB 内存):HUAWEI
 RLEF-16:HUAWEI MateBook D 16 (2022) / HUAWEI MateBook D 16 SE:HUAWEI
 BL-W09:HUAWEI MateBook E i3:HUAWEI
 BL-W19:HUAWEI MateBook E i5:HUAWEI
@@ -1260,24 +1366,36 @@ DRC-W56:HUAWEI MateBook E (2021) i5 (16GB+512GB):HUAWEI
 DRC-W76:HUAWEI MateBook E (2021) i7 (16GB+512GB):HUAWEI
 GK-G58:HUAWEI MateBook E Go 全网通 (8GB+256GB):HUAWEI
 GK-G56:HUAWEI MateBook E Go 全网通 (16GB+512GB):HUAWEI
-GK-W76:HUAWEI MateBook E Go 性能版 Wi-Fi (16GB+512GB):HUAWEI
+GK-W76:HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 款 Wi-Fi:HUAWEI
 NBZ-WBH9:HUAWEI MateBook B3-410 i5 (8GB+256GB):HUAWEI
 NBZ-WBM9:HUAWEI MateBook B3-410 i5 (8GB+512GB):HUAWEI
 NBZ-WBE9:HUAWEI MateBook B3-410 i7:HUAWEI
 NDZ-WDH9A:HUAWEI MateBook B3-420 i5 (8GB+512GB):HUAWEI
 NDZ-WFH9A:HUAWEI MateBook B3-420 i5 (16GB+512GB):HUAWEI
 NDZ-WFE9A:HUAWEI MateBook B3-420 i7:HUAWEI
+NFZ-WDH9:HUAWEI MateBook B3-430 i5 (8GB+512GB):HUAWEI
+NFZ-WFH9:HUAWEI MateBook B3-430 i5 (16GB+512GB):HUAWEI
+NFZ-WFE9:HUAWEI MateBook B3-430 i7:HUAWEI
 BBZ-WBH9:HUAWEI MateBook B3-510 i5:HUAWEI
 BBZ-WBE9:HUAWEI MateBook B3-510 i7:HUAWEI
 BDZ-WDH9A:HUAWEI MateBook B3-520 i5 (8GB+512GB):HUAWEI
 BDZ-WFH9A:HUAWEI MateBook B3-520 i5 (16GB+512GB):HUAWEI
 BDZ-WFE9A:HUAWEI MateBook B3-520 i7:HUAWEI
+WRTDZ-WFH9:HUAWEI MateBook B5-330 i5:HUAWEI
+WRTDZ-WFE9:HUAWEI MateBook B5-330 i7:HUAWEI
 KLCZ-WDH9:HUAWEI MateBook B5-420:HUAWEI
 KLDZ-WDH9AQ:HUAWEI MateBook B5-430 i5 (8GB+512GB):HUAWEI
 KLDZ-WFH9A:HUAWEI MateBook B5-430 i5 (16GB+512GB):HUAWEI
 KLDZ-WFE9A:HUAWEI MateBook B5-430 i7:HUAWEI
-MDZ-WFH9A:HUAWEI MateBook B7 i5:HUAWEI
-MDZ-WFE9A:HUAWEI MateBook B7 i7:HUAWEI
+KLVFZ-W56:HUAWEI MateBook B5-440 i5:HUAWEI
+KLVFZ-W76:HUAWEI MateBook B5-440 i7:HUAWEI
+MDZ-WDH9A:HUAWEI MateBook B7-410 i5 (8GB+512GB):HUAWEI
+MDZ-WDH9B:HUAWEI MateBook B7-410 i5 (8GB+256GB):HUAWEI
+MDZ-WFH9A:HUAWEI MateBook B7-410 i5 (16GB+512GB):HUAWEI
+MDZ-WFE9A:HUAWEI MateBook B7-410 i7 (16GB+512GB):HUAWEI
+MDZ-WFE9B:HUAWEI MateBook B7-410 i7 (16GB+1TB):HUAWEI
+MRGF-5651:HUAWEI MateBook B7-420 i5:HUAWEI
+MRGF-7651:HUAWEI MateBook B7-420 i7:HUAWEI
 KLVU-WDU0:华为擎云 L410 (8GB+256GB):HUAWEI
 KLVU-WDU0B:华为擎云 L410 (8GB+512GB):HUAWEI
 KLVV-W5821:华为擎云 L420:HUAWEI
@@ -1295,6 +1413,8 @@ HD85THAA:华为智慧屏 V 85 2021 款:HUAWEI
 HD98SOKA:华为智慧屏 V 98 2021 款:HUAWEI
 HD65FRUA:华为智慧屏 V 65 Pro:HUAWEI
 HD75FRUA:华为智慧屏 V 75 Pro:HUAWEI
+HD65FRUB:华为智慧屏 V 65 三代:HUAWEI
+HD75FRUB:华为智慧屏 V 75 三代:HUAWEI
 PLAT-760:华为智慧屏 X65:HUAWEI
 HD55KANB:华为智慧屏 S 55 60Hz (3GB+16GB):HUAWEI
 HD55KANC:华为智慧屏 S 55 60Hz (3GB+32GB):HUAWEI
@@ -1303,8 +1423,9 @@ HD65KANA:华为智慧屏 S 65 (3GB+16GB):HUAWEI
 HD65KANS:华为智慧屏 S Pro 65 (3GB+32GB):HUAWEI
 HD75KANA:华为智慧屏 S 75 (3GB+16GB):HUAWEI
 HD75KANS:华为智慧屏 S Pro 75 (3GB+32GB):HUAWEI
-HD55AJMA:华为智慧屏 S 55 (2022):HUAWEI
-HD65AJMA:华为智慧屏 S 65 (2022):HUAWEI
+HD55AJMA:华为智慧屏 S 55 二代:HUAWEI
+HD65AJMA:华为智慧屏 S 65 二代:HUAWEI
+HD75AJMA:华为智慧屏 S 75 二代:HUAWEI
 HD86KEPA:华为智慧屏 S86 Pro:HUAWEI
 HD55DESA:华为智慧屏 SE 55 (2GB+16GB):HUAWEI
 HD55DESZ:华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB):HUAWEI
@@ -1517,11 +1638,16 @@ NEN-LX3:HUAWEI nova 8i:HUAWEI
 NAM-LX9:HUAWEI nova 9:HUAWEI
 JLN-LX1:HUAWEI nova 9 SE:HUAWEI
 JLN-LX3:HUAWEI nova 9 SE:HUAWEI
-NCO-LX1:HUAWEI nova 10:HUAWEI
-NCO-LX3:HUAWEI nova 10:HUAWEI
-GLA-LX1:HUAWEI nova 10 Pro:HUAWEI
-GLA-LX3:HUAWEI nova 10 Pro:HUAWEI
+NCO-LX1:HUAWEI nova 10 Dual SIM:HUAWEI
+NCO-LX3:HUAWEI nova 10 Single SIM:HUAWEI
+GLA-LX1:HUAWEI nova 10 Pro Dual SIM:HUAWEI
+GLA-LX3:HUAWEI nova 10 Pro Single SIM:HUAWEI
+BNE-LX1:HUAWEI nova 10 SE Dual SIM:HUAWEI
+BNE-LX3:HUAWEI nova 10 SE Single SIM:HUAWEI
 WKG-LX9:HUAWEI nova Y60:HUAWEI
+EVE-LX9:HUAWEI nova Y61:HUAWEI
+EVE-LX9N:HUAWEI nova Y61:HUAWEI
+EVE-LX3:HUAWEI nova Y61:HUAWEI
 MGA-LX9:HUAWEI nova Y70 / HUAWEI nova Y70 Plus:HUAWEI
 CTR-LX1:HUAWEI nova Y90:HUAWEI
 CTR-LX2:HUAWEI nova Y90:HUAWEI
@@ -1636,6 +1762,7 @@ Lenovo TB-J606F:联想小新 Pad:Lenovo
 TB128FU:联想小新 Pad 2022:Lenovo
 Lenovo TB-J607F:联想小新 Pad Plus:Lenovo
 Lenovo TB-J607Z:联想小新 Pad Plus 5G:Lenovo
+TB350FU:联想小新 Pad Plus 2023:Lenovo
 Lenovo TB-J706F:联想小新 Pad Pro 2020:Lenovo
 Lenovo TB-J716F:联想小新 Pad Pro 2021:Lenovo
 Lenovo TB-Q706F:联想小新 Pad Pro 12.6:Lenovo
@@ -1718,6 +1845,11 @@ LEX652:乐 Pro 3 双摄 AI 版 未知版本:Letv
 LEX656:乐 Pro 3 双摄 AI 版 未知版本:Letv
 LEX659:乐 Pro 3 双摄 AI 版 未知版本:Letv
 LEX850:乐视 未知机型:Letv
+L5:Letv S1 5G:Letv
+Letv L6:Letv Y1 Pro:Letv
+Letv L6B:Letv Y1 Pro+:Letv
+Letv L7:Letv Y2 Pro:Letv
+Letv L8:Letv S1 Pro 5G:Letv
 M8:魅族 M8:MEIZU
 M8SE:魅族 M8 SE:MEIZU
 M9:魅族 M9:MEIZU
@@ -2009,10 +2141,12 @@ L75M7-EA:小米电视 EA75 2022 款:Xiaomi
 L55M9-EP:小米电视 EA Pro 55:Xiaomi
 L65M9-EP:小米电视 EA Pro 65:Xiaomi
 L75M9-EP:小米电视 EA Pro 75:Xiaomi
+L86M9-EP:小米电视 EA Pro 86:Xiaomi
 L43M7-ES:小米电视 ES43 2022 款:Xiaomi
 L50M7-ES:小米电视 ES50 2022 款:Xiaomi
 L55M7-ES:小米电视 ES55 2022 款:Xiaomi
 L65M7-ES:小米电视 ES65 2022 款:Xiaomi
+L70M7-ES:小米电视 ES70 2022 款:Xiaomi
 L75M7-ES:小米电视 ES75 2022 款:Xiaomi
 L55M9-SP:小米电视 ES Pro 55:Xiaomi
 L65M9-SP:小米电视 ES Pro 65:Xiaomi
@@ -2040,6 +2174,7 @@ L50R8-A:Redmi 智能电视 A50 2022 款:Xiaomi
 L55R8-A:Redmi 智能电视 A55 2022 款:Xiaomi
 L58R8-A:Redmi 智能电视 A58 2022 款:Xiaomi
 L65R8-A:Redmi 智能电视 A65 2022 款:Xiaomi
+L70R8-A:Redmi 智能电视 A70 2022 款:Xiaomi
 L75R8-A:Redmi 智能电视 A75 2022 款:Xiaomi
 L50M5-RK:Redmi 智能电视 X50 (2020):Xiaomi
 L55M5-RK:Redmi 智能电视 X55 (2020):Xiaomi
@@ -2048,9 +2183,15 @@ L50R8-X:Redmi 智能电视 X50 2022 款:Xiaomi
 L55R8-X:Redmi 智能电视 X55 2022 款:Xiaomi
 L65R8-X:Redmi 智能电视 X65 2022 款:Xiaomi
 L75R8-X:Redmi 智能电视 X75 2022 款:Xiaomi
+L86R9-X:Redmi 智能电视 X86:Xiaomi
+L55RA-XT:Redmi 智能电视 X55T:Xiaomi
+L65RA-XT:Redmi 智能电视 X65T:Xiaomi
+L75RA-XT:Redmi 智能电视 X75T:Xiaomi
 L55R9-XT:Redmi AI 智能电视 X55:Xiaomi
 L65R9-XT:Redmi AI 智能电视 X65:Xiaomi
 L75R9-XT:Redmi AI 智能电视 X75:Xiaomi
+L65R9-XP:Redmi 智能电视 X Pro 65:Xiaomi
+L75R9-XP:Redmi 智能电视 X Pro 75:Xiaomi
 L86R6-MAX:Redmi 智能电视 MAX 86 英寸:Xiaomi
 L98M6-RK:Redmi 智能电视 MAX 98 英寸:Xiaomi
 L100R8-MAX:Redmi 智能电视 MAX 100 英寸:Xiaomi
@@ -2134,14 +2275,24 @@ L43M7-7AEU:Xiaomi TV P1E 43:Xiaomi
 L55M7-7AEU:Xiaomi TV P1E 55:Xiaomi
 L75M6-ESG:Mi TV Q1 75:Xiaomi
 L55M6-ESG:Xiaomi TV Q1E 55:Xiaomi
+L50M7-Q2EU:Xiaomi TV Q2 50:Xiaomi
+L55M7-Q2EU:Xiaomi TV Q2 55:Xiaomi
+L65M7-Q2EU:Xiaomi TV Q2 65:Xiaomi
 L32M7-EAEU:Xiaomi TV A2 32:Xiaomi
 L43M7-EAEU:Xiaomi TV A2 43:Xiaomi
 L50M7-EAEU:Xiaomi TV A2 50:Xiaomi
 L55M7-EAEU:Xiaomi TV A2 55:Xiaomi
 L58M7-EAEU:Xiaomi TV A2 58:Xiaomi
+L43M7-ESEA:Xiaomi TV A2 FHD 43:Xiaomi
+L58M7-EASEA:Xiaomi TV A2 58:Xiaomi
 L32M7-EAID:Xiaomi TV A2 32:Xiaomi
 L43M7-EAID:Xiaomi TV A2 UHD 43:Xiaomi
 L55M7-EAID:Xiaomi TV A2 55:Xiaomi
+L32M7-EAVN:Xiaomi TV A2 32:Xiaomi
+L43M7-ETH:Xiaomi TV A2 FHD 43:Xiaomi
+L32M7-EAUKR:Xiaomi TV A2 32:Xiaomi
+L43M7-EAUKR:Xiaomi TV A2 UHD 43:Xiaomi
+L55M7-EAUKR:Xiaomi TV A2 55:Xiaomi
 L43M7-FVEU:Xiaomi Fire TV F2 43:Xiaomi
 L50M7-FVEU:Xiaomi Fire TV F2 50:Xiaomi
 L55M7-FVEU:Xiaomi Fire TV F2 55:Xiaomi
@@ -2188,6 +2339,8 @@ XT2201-6:moto edge X30 屏下摄像版:Motorola
 XT2241-1:moto X30 Pro:Motorola
 XT2243-2:moto S30 Pro:Motorola
 XT2251-1:moto razr 2022:Motorola
+XT2301-5:moto X40:Motorola
+XT2335-3:moto g53:Motorola
 TA-1000:Nokia 6:Nokia
 TA-1054:Nokia 6 (第二代):Nokia
 TA-1041:Nokia 7:Nokia
@@ -2204,6 +2357,7 @@ TA-1258:Nokia C3:Nokia
 TA-1388:Nokia C20 Plus:Nokia
 TA-1361:Nokia G50:Nokia
 TA-1392:Nokia T20:Nokia
+TA-1511:Nokia C31:Nokia
 NX501:nubia Z5:nubia
 NX401:nubia Z5 mini:nubia
 NX402:nubia Z5 mini:nubia
@@ -2240,6 +2394,7 @@ NX627J:nubia Z20:nubia
 NX667J:nubia Z30 Pro:nubia
 NX701J:nubia Z40 Pro:nubia
 NX702J:nubia Z40S Pro:nubia
+NX711J:nubia Z50:nubia
 NX609J:红魔电竞游戏手机:nubia
 NX619J:红魔 Mars 电竞手机:nubia
 NX629J:红魔 3:nubia
@@ -2254,6 +2409,8 @@ NX679J:红魔 7:nubia
 NX709J:红魔 7 Pro:nubia
 NX679S:红魔 7S:nubia
 NX709S:红魔 7S Pro:nubia
+NX729J:红魔 8 Pro:nubia
+NX729J:红魔 8 Pro+:nubia
 NX601J:nubia X6:nubia
 NX616J:nubia X:nubia
 NX612J:nubia V18:nubia
@@ -2350,6 +2507,12 @@ CPH2413:一加 10T 印度版:OnePlus
 CPH2415:一加 10T 欧洲版/国际版:OnePlus
 CPH2417:一加 10T 北美版:OnePlus
 CPH2419:一加 10T T-Mobile 版:OnePlus
+PHB110:一加 11 全网通版:OnePlus
+CPH2447:一加 11 印度版:OnePlus
+CPH2449:一加 11 欧洲版/国际版:OnePlus
+CPH2451:一加 11 北美版:OnePlus
+PHK110:一加 Ace 2 全网通版:OnePlus
+CPH2487:一加 11R 印度版:OnePlus
 AC2001:OnePlus Nord 印度版:OnePlus
 AC2003:OnePlus Nord 欧洲版/国际版:OnePlus
 BE2025:OnePlus Nord N10 Metro 版:OnePlus
@@ -2384,10 +2547,14 @@ PDET10:OPPO Find X2 移动版:OPPO
 PDEM30:OPPO Find X2 Pro:OPPO
 PEDM00:OPPO Find X3:OPPO
 PEEM00:OPPO Find X3 Pro:OPPO
-PEUM00:OPPO Find N:OPPO
 PFFM10:OPPO Find X5:OPPO
 PFEM10:OPPO Find X5 Pro:OPPO
 PFFM20:OPPO Find X5 Pro 天玑版:OPPO
+PGFM10:OPPO Find X6:OPPO
+PGEM10:OPPO Find X6 Pro:OPPO
+PEUM00:OPPO Find N:OPPO
+PGU110:OPPO Find N2:OPPO
+PGT110:OPPO Find N2 Flip:OPPO
 PCAM00:OPPO Reno 全网通版:OPPO
 PCAT00:OPPO Reno 移动版:OPPO
 PCCM00:OPPO Reno 10 倍变焦版 全网通版:OPPO
@@ -2426,6 +2593,10 @@ PFCM00:OPPO Reno7 SE:OPPO
 PGBM10:OPPO Reno8:OPPO
 PGAM10:OPPO Reno8 Pro:OPPO
 PFZM10:OPPO Reno8 Pro+:OPPO
+PHM110:OPPO Reno9:OPPO
+PGX110:OPPO Reno9 Pro:OPPO
+PGW110:OPPO Reno9 Pro+:OPPO
+PHU110:OPPO Reno10 Pro+:OPPO
 PCLM10:OPPO Reno Ace:OPPO
 PDHM00:OPPO Ace2:OPPO
 PACM00:OPPO R15 全网通版:OPPO
@@ -2477,7 +2648,10 @@ PEMT00:OPPO A55 移动版:OPPO
 PEMT20:OPPO A55 移动版:OPPO
 PEMM00:OPPO A55s:OPPO
 PFVM10:OPPO A56:OPPO
+PFTM20:OPPO A56s:OPPO
 PFTM20:OPPO A57 (2022):OPPO
+PHJ110:OPPO A58:OPPO
+PHJ110:OPPO A58x:OPPO
 PDYM20:OPPO A72 全网通版:OPPO
 PDYT20:OPPO A72 移动版:OPPO
 PDYM10:OPPO A72n:OPPO
@@ -2492,6 +2666,7 @@ PELM00:OPPO A95:OPPO
 PFUM10:OPPO A96:OPPO
 PHA120:OPPO A96:OPPO
 PFTM10:OPPO A97:OPPO
+PHQ110:OPPO A1 Pro:OPPO
 PBCM30:OPPO K1:OPPO
 PCGM00:OPPO K3 全网通版:OPPO
 PCGT00:OPPO K3 移动版:OPPO
@@ -2500,18 +2675,18 @@ PCNT00:OPPO K5 移动版:OPPO
 PCLM50:OPPO K7:OPPO
 PERM00:OPPO K7x:OPPO
 PEXM00:OPPO K9:OPPO
-PERM10:OPPO K9s:OPPO
+PERM10:OPPO K9s / OPPO K10 活力版:OPPO
 PEYM00:OPPO K9 Pro:OPPO
 PGCM10:OPPO K9x:OPPO
 PGJM10:OPPO K10:OPPO
 PGIM10:OPPO K10 Pro:OPPO
-PERM10:OPPO K10 活力版:OPPO
 PGGM10:OPPO K10x:OPPO
 OPD2101:OPPO Pad:OPPO
 OPD2102:OPPO Pad Air:OPPO
+OPD2201:OPPO Pad 2:OPPO
 OW19W1:OPPO Watch 46mm:OPPO
 OW19W2:OPPO Watch 41mm:OPPO
-OW19W3:OPPO Watch 46mm ECG/精钢版:OPPO
+OW19W3:OPPO Watch ECG/精钢版:OPPO
 OWW202:OPPO Watch 2 42mm 蓝牙版:OPPO
 OW20W1:OPPO Watch 2 46mm eSIM 版:OPPO
 OW20W2:OPPO Watch 2 42mm eSIM 版:OPPO
@@ -2520,6 +2695,7 @@ OWW206:OPPO Watch Free 标准版:OPPO
 OWW208:OPPO Watch Free NFC 版:OPPO
 OWW212:OPPO Watch 3:OPPO
 OWW211:OPPO Watch 3 Pro:OPPO
+OWW213:OPPO Watch 3 SE:OPPO
 CPH1871:OPPO Find X:OPPO
 CPH1875:OPPO Find X:OPPO
 CPH2023:OPPO Find X2:OPPO
@@ -2534,6 +2710,8 @@ CPH2207:OPPO Find X3 Neo:OPPO
 CPH2307:OPPO Find X5:OPPO
 CPH2305:OPPO Find X5 Pro:OPPO
 CPH2371:OPPO Find X5 Lite:OPPO
+CPH2439:OPPO Find N2:OPPO
+CPH2437:OPPO Find N2 Flip:OPPO
 CPH1917:OPPO Reno:OPPO
 CPH1921:OPPO Reno 5G:OPPO
 CPH1919:OPPO Reno 10x Zoom:OPPO
@@ -2579,13 +2757,16 @@ CPH2365:OPPO Reno6 Lite:OPPO
 CPH2363:OPPO Reno7:OPPO
 CPH2371:OPPO Reno7 5G:OPPO
 CPH2293:OPPO Reno7 Pro 5G:OPPO
-CPH2343:OPPO Reno7 Z 5G:OPPO
 CPH2353:OPPO Reno7 A:OPPO
 A201OP:OPPO Reno7 A (SoftBank):OPPO
 OPG04:OPPO Reno7 A (KDDI):OPPO
+CPH2343:OPPO Reno7 Z 5G / OPPO Reno7 Lite 5G / OPPO Reno8 Lite 5G:OPPO
+CPH2461:OPPO Reno8:OPPO
 CPH2359:OPPO Reno8 5G:OPPO
 CPH2357:OPPO Reno8 Pro 5G:OPPO
 CPH2457:OPPO Reno8 Z 5G:OPPO
+CPH2481:OPPO Reno8 T:OPPO
+CPH2505:OPPO Reno8 T 5G:OPPO
 CPH1819:OPPO F7:OPPO
 CPH1821:OPPO F7:OPPO
 CPH1859:OPPO F7 Youth:OPPO
@@ -2609,6 +2790,7 @@ CPH2341:OPPO F21 Pro 5G:OPPO
 CPH2343:OPPO F21 Pro 5G:OPPO
 CPH2461:OPPO F21s Pro:OPPO
 CPH2455:OPPO F21s Pro 5G:OPPO
+CPH2481:OPPO F23:OPPO
 CPH1835:OPPO R15:OPPO
 CPH1831:OPPO R15 Pro:OPPO
 CPH1833:OPPO R15 Pro:OPPO
@@ -2654,6 +2836,8 @@ CPH2349:OPPO A16k:OPPO
 CPH2351:OPPO A16k:OPPO
 CPH2271:OPPO A16s:OPPO
 CPH2421:OPPO A16e:OPPO
+CPH2477:OPPO A17:OPPO
+CPH2471:OPPO A17k:OPPO
 CPH2015:OPPO A31:OPPO
 CPH2031:OPPO A31:OPPO
 CPH2073:OPPO A31:OPPO
@@ -2691,6 +2875,9 @@ CPH2263:OPPO A74 5G:OPPO
 CPH2375:OPPO A76:OPPO
 CPH2385:OPPO A77:OPPO
 CPH2339:OPPO A77 5G:OPPO
+CPH2473:OPPO A77s:OPPO
+CPH2483:OPPO A78 5G:OPPO
+CPH2495:OPPO A78 5G:OPPO
 CPH2001:OPPO A91:OPPO
 CPH2021:OPPO A91:OPPO
 CPH2059:OPPO A92:OPPO
@@ -2735,6 +2922,8 @@ RMX3370:真我 GT Neo2:realme
 RMX3357:真我 GT Neo2T:realme
 RMX3560:真我 GT Neo3:realme
 RMX3562:真我 GT Neo3 150W:realme
+RMX3706:真我 GT Neo5:realme
+RMX3708:真我 GT Neo5 240W:realme
 RMX1971:realme Q:realme
 RMX2117:真我 Q2 5G:realme
 RMX2173:真我 Q2 Pro 5G:realme
@@ -2749,6 +2938,10 @@ RMX3478:真我 Q5:realme
 RMX3372:真我 Q5 Pro:realme
 RMX3574:真我 Q5i:realme
 RMX3616:真我 Q5x:realme
+RMX3615:真我 10:realme
+RMX3617:真我 10s:realme
+RMX3663:真我 10 Pro:realme
+RMX3687:真我 10 Pro+:realme
 RMX2200:真我 V3 5G 全网通版:realme
 RMX2201:真我 V3 5G 运营商定制版:realme
 RMX2111:真我 V5 5G 全网通版:realme
@@ -2760,10 +2953,13 @@ RMX3041:真我 V13 5G 全网通版:realme
 RMX3043:真我 V13 5G 运营商定制版:realme
 RMX3092:真我 V15 5G 全网通版:realme
 RMX3093:真我 V15 5G 运营商定制版:realme
+RMX3610:真我 V20:realme
 RMX3611:真我 V20:realme
 RMX3571:真我 V23:realme
 RMX3576:真我 V23i:realme
 RMX3475:真我 V25:realme
+RMX3619:真我 V30:realme
+RMX3618:真我 V30t:realme
 RMP2108:真我平板 X:realme
 CPH1859:realme 1:realme
 CPH1861:realme 1:realme
@@ -2820,6 +3016,10 @@ RMX3472:realme 9 Pro 5G Global:realme
 RMX3392:realme 9 Pro+ 5G India:realme
 RMX3393:realme 9 Pro+ 5G Global:realme
 RMX3461:realme 9 5G Speed Edition India:realme
+RMX3630:realme 10:realme
+RMX3660:realme 10 Pro 5G India:realme
+RMX3661:realme 10 Pro 5G Global:realme
+RMX3686:realme 10 Pro+ 5G:realme
 RMX1901:realme X:realme
 RMX1921:realme XT Global:realme
 RMX1922:realme XT India:realme
@@ -2904,6 +3104,7 @@ RMX3516:realme Narzo 50A Prime:realme
 RMX3517:realme Narzo 50A Prime:realme
 RMX3231:realme Narzo 50i India:realme
 RMX3235:realme Narzo 50i Global:realme
+RMX3506:realme Narzo 50i Prime:realme
 RMX2202:realme GT 5G:realme
 RMX3360:realme GT Master Edition:realme
 RMX3363:realme GT Master Edition:realme
@@ -2914,10 +3115,12 @@ RMX3301:realme GT 2 Pro 5G:realme
 RMX3561:realme GT NEO 3:realme
 RMX3563:realme GT NEO 3 150W:realme
 RMX3371:realme GT NEO 3T:realme
-RMP2102:realme Pad:realme
-RMP2103:realme Pad:realme
-RMP2105:realme Pad mini:realme
-RMP2106:realme Pad mini:realme
+RMP2102:realme Pad LTE:realme
+RMP2103:realme Pad Wi-Fi:realme
+RMP2105:realme Pad mini LTE:realme
+RMP2106:realme Pad mini Wi-Fi:realme
+RMP2107:realme Pad X 5G:realme
+RMP2108:realme Pad X Wi-Fi:realme
 GT-I9000:Galaxy S 公开版:Samsung
 GT-I9008:Galaxy S 移动定制版:Samsung
 GT-I9008L:Galaxy S 移动定制版:Samsung
@@ -2980,6 +3183,9 @@ SM-G9900:Galaxy S21 FE 5G:Samsung
 SM-S9010:Galaxy S22 5G:Samsung
 SM-S9060:Galaxy S22+ 5G:Samsung
 SM-S9080:Galaxy S22 Ultra 5G:Samsung
+SM-S9110:Galaxy S23 5G:Samsung
+SM-S9160:Galaxy S23+ 5G:Samsung
+SM-S9180:Galaxy S23 Ultra 5G:Samsung
 GT-I9220:Galaxy Note 公开版:Samsung
 GT-I9228:Galaxy Note 移动定制版:Samsung
 SCH-I889:Galaxy Note 电信定制版:Samsung
@@ -3099,6 +3305,8 @@ SM-W2019:三星 W2019:Samsung
 SM-W2020:三星 W20 5G:Samsung
 SM-W2021:三星 W21 5G:Samsung
 SM-W2022:三星 W22 5G:Samsung
+SM-W9023:三星 W23 5G:Samsung
+SM-W7023:三星 W23 Flip 5G:Samsung
 SM-G1600:Galaxy Folder:Samsung
 SM-G1650:Galaxy Folder 2:Samsung
 SM-G8508S:Galaxy Alpha:Samsung
@@ -3127,7 +3335,8 @@ SM-P610:Galaxy Tab S6 Lite WLAN:Samsung
 SM-P615C:Galaxy Tab S6 Lite LTE:Samsung
 SM-T870:Galaxy Tab S7 WLAN:Samsung
 SM-T970:Galaxy Tab S7+ WLAN:Samsung
-SM-T730:Galaxy Tab S7 FE WLAN:Samsung
+SM-T730:Galaxy Tab S7 FE WLAN (骁龙 750G):Samsung
+SM-T733:Galaxy Tab S7 FE WLAN (骁龙 778G):Samsung
 SM-T735C:Galaxy Tab S7 FE LTE:Samsung
 SM-X700:Galaxy Tab S8 WLAN:Samsung
 SM-X706C:Galaxy Tab S8 5G:Samsung
@@ -3258,6 +3467,9 @@ V2183A:vivo X80:vivo
 V2185A:vivo X80 Pro:vivo
 V2186A:vivo X80 Pro 天玑 9000 版:vivo
 V2229A:vivo X Fold+:vivo
+V2241A:vivo X90:vivo
+V2242A:vivo X90 Pro:vivo
+V2227A:vivo X90 Pro+:vivo
 V1831A:vivo S1 全网通版:vivo
 V1831T:vivo S1 移动全网通版:vivo
 V1832A:vivo S1 Pro 全网通版:vivo
@@ -3280,6 +3492,9 @@ V2163A:vivo S12 Pro:vivo
 V2203A:vivo S15:vivo
 V2207A:vivo S15 Pro:vivo
 V2190A:vivo S15e:vivo
+V2244A:vivo S16:vivo
+V2245A:vivo S16 Pro:vivo
+V2239A:vivo S16e:vivo
 V1901A:vivo Y3 全网通版:vivo
 V1901T:vivo Y3 移动全网通版:vivo
 V1930A:vivo Y3 标准版 全网通版:vivo
@@ -3309,6 +3524,8 @@ V2168A:vivo Y32t (8GB+128GB):vivo
 V2180A:vivo Y32t (8GB+256GB):vivo
 V2166A:vivo Y33s 5G:vivo
 V2166A:vivo Y33e 5G:vivo
+V2230A:vivo Y35 5G:vivo
+V2230A:vivo Y35m 5G:vivo
 V1965A:vivo Y50:vivo
 V2023EA:vivo Y50t:vivo
 V2002A:vivo Y51s 5G:vivo
@@ -3319,6 +3536,7 @@ V2111A:vivo Y53s 5G:vivo
 V2069A:vivo Y53s (t1 版) 5G:vivo
 V2123A:vivo Y53s (t2 版) 5G:vivo
 V2069A:vivo Y53s (NFC 版) 5G:vivo
+V2230A:vivo Y53t 5G:vivo
 V2045A:vivo Y54s 5G:vivo
 V2164A:vivo Y55s 5G:vivo
 V2002A:vivo Y70s 5G:vivo
@@ -3332,6 +3550,7 @@ V2164PA:vivo Y73t 5G:vivo
 V2009A:vivo Y74s 5G:vivo
 V2069BA:vivo Y75s 5G:vivo
 V2156A:vivo Y76s 5G:vivo
+V2156FA:vivo Y76s (t1 版) 5G:vivo
 V2219A:vivo Y77 5G:vivo
 V2166BA:vivo Y77e 5G / vivo Y77e (t1 版) 5G:vivo
 V1732A:vivo Y81 全网通版:vivo
@@ -3353,7 +3572,6 @@ V2115A:vivo T1:vivo
 V2123A:vivo T1x:vivo
 V2199GA:vivo T2:vivo
 V2188A:vivo T2x:vivo
-PA2170:vivo Pad:vivo
 V1801A0:vivo Z1:vivo
 V1730DA:vivo Z1i 全网通版:vivo
 V1730DT:vivo Z1i 移动全网通版:vivo
@@ -3395,6 +3613,8 @@ V2171A:iQOO 9:vivo
 V2172A:iQOO 9 Pro:vivo
 V2217A:iQOO 10:vivo
 V2218A:iQOO 10 Pro:vivo
+V2243A:iQOO 11:vivo
+V2254A:iQOO 11 Pro:vivo
 V1914A:iQOO Neo 全网通版:vivo
 V1914T:iQOO Neo 移动全网通版:vivo
 V1936A:iQOO Neo 855 版 全网通版:vivo
@@ -3408,6 +3628,9 @@ V2154A:iQOO Neo5S:vivo
 V2157A:iQOO Neo5 SE:vivo
 V2196A:iQOO Neo6:vivo
 V2199A:iQOO Neo6 SE:vivo
+V2231A:iQOO Neo7:vivo
+V2232A:iQOO Neo7 竞速版:vivo
+V2238A:iQOO Neo7 SE:vivo
 V1986A:iQOO Z1:vivo
 V2012A:iQOO Z1x:vivo
 V2073A:iQOO Z3:vivo
@@ -3423,6 +3646,7 @@ V2143A:iQOO U3x 标准版:vivo
 V2165A:iQOO U5 5G:vivo
 V2180GA:iQOO U5x:vivo
 V2197A:iQOO U5e 5G:vivo
+PA2170:vivo Pad:vivo
 MI-ONE PLUS:小米 1 联通版:Xiaomi
 MI-ONE C1:小米 1 电信版:Xiaomi
 MI-ONE:小米 1 青春版:Xiaomi
@@ -3536,6 +3760,13 @@ M2012K11I:小米 11X Pro 印度版:Xiaomi
 2203121C:Xiaomi 12S Ultra 全网通版:Xiaomi
 22071212AG:Xiaomi 12T 国际版:Xiaomi
 22081212UG:Xiaomi 12T Pro 国际版:Xiaomi
+22081212R:Xiaomi 12T Pro 日本版 (SIM Free):Xiaomi
+A201XM:Xiaomi 12T Pro 日本版 (SoftBank):Xiaomi
+2211133C:Xiaomi 13 全网通版:Xiaomi
+2211133G:Xiaomi 13 国际版:Xiaomi
+2210132C:Xiaomi 13 Pro 全网通版:Xiaomi
+2210132G:Xiaomi 13 Pro 国际版:Xiaomi
+2210129SG:Xiaomi 13 Lite 国际版:Xiaomi
 2014616:小米 Note 双网通版:Xiaomi
 2014619:小米 Note 全网通版:Xiaomi
 2014618:小米 Note 移动合约版:Xiaomi
@@ -3731,6 +3962,12 @@ M2010J19SL:Redmi 9T 拉美版:Xiaomi
 220233L2G:Redmi 10A 国际版:Xiaomi
 220233L2I:Redmi 10A 印度版 / Redmi 10A Sport 印度版:Xiaomi
 22071219AI:Redmi 11 Prime 印度版:Xiaomi
+22120RN86C:Redmi 12C 全网通版:Xiaomi
+22120RN86G:Redmi 12C 国际版:Xiaomi
+22120RN86H:Redmi 12C 国际版:Xiaomi
+22120RN86I:Redmi 12C 印度版:Xiaomi
+2212ARNC4L:Redmi 12C 拉美版:Xiaomi
+22126RN91Y:Redmi 12C 国际版 (NFC):Xiaomi
 2014018:红米 Note 联通 3G 标准版:Xiaomi
 2013121:红米 Note 联通 3G 增强版:Xiaomi
 2014017:红米 Note 移动 3G 标准版:Xiaomi
@@ -3860,6 +4097,16 @@ M2104K10AC:Redmi Note 10 Pro 5G 全网通版:Xiaomi
 21091116UG:Redmi Note 11 Pro+ 5G 国际版:Xiaomi
 22041216C:Redmi Note 11T Pro 全网通版:Xiaomi
 22041216UC:Redmi Note 11T Pro+ 全网通版:Xiaomi
+22095RA98C:Redmi Note 11R 5G 全网通版:Xiaomi
+22101317C:Redmi Note 12 5G 全网通版:Xiaomi
+22111317G:Redmi Note 12 5G 国际版:Xiaomi
+22111317I:Redmi Note 12 5G 印度版:Xiaomi
+22101316C:Redmi Note 12 Pro 全网通版:Xiaomi
+22101316I:Redmi Note 12 Pro 5G 印度版:Xiaomi
+22101316UCP:Redmi Note 12 Pro+ 全网通版:Xiaomi
+22101316UP:Redmi Note 12 Pro+ 5G 印度版:Xiaomi
+22101316UC:Redmi Note 12 探索版 全网通版:Xiaomi
+22101320C:Redmi Note 12 Pro 极速版 全网通版:Xiaomi
 M2004J7AC:Redmi 10X 5G 全网通版:Xiaomi
 M2004J7BC:Redmi 10X Pro 5G 全网通版:Xiaomi
 M2003J15SC:Redmi 10X 4G 全网通版:Xiaomi
@@ -3889,6 +4136,9 @@ M2012K10C:Redmi K40 游戏增强版 全网通版:Xiaomi
 21121210C:Redmi K50 电竞版 全网通版:Xiaomi
 22081212C:Redmi K50 至尊版 全网通版:Xiaomi
 22041216I:Redmi K50i 印度版:Xiaomi
+23013RK75C:Redmi K60 全网通版:Xiaomi
+22127RK46C:Redmi K60 Pro 全网通版:Xiaomi
+22122RK93C:Redmi K60E 全网通版:Xiaomi
 2016020:红米 Pro 标准版:Xiaomi
 2016021:红米 Pro 高配版 / 尊享版:Xiaomi
 M1803E6E:红米 S2 全网通版:Xiaomi
@@ -3903,10 +4153,14 @@ M1903C3GG:Redmi Go 国际版:Xiaomi
 M1903C3GH:Redmi Go 国际版:Xiaomi
 M1903C3GI:Redmi Go 印度版:Xiaomi
 220733SG:Redmi A1 国际版:Xiaomi
+220733SH:Redmi A1 国际版:Xiaomi
 220733SI:Redmi A1 印度版:Xiaomi
 220733SL:Redmi A1 拉美版:Xiaomi
 220733SFG:Redmi A1+ 国际版:Xiaomi
+220733SFH:Redmi A1+ 国际版:Xiaomi
 220743FI:Redmi A1+ 印度版:Xiaomi
+22081283C:Redmi Pad 国行版:Xiaomi
+22081283G:Redmi Pad 国际版:Xiaomi
 M1805E10A:POCO F1:Xiaomi
 M2004J11G:POCO F2 Pro 国际版:Xiaomi
 M2012K11AG:POCO F3 国际版:Xiaomi
@@ -3926,6 +4180,9 @@ M2102J20SI:POCO X3 Pro 印度版:Xiaomi
 2201116PI:POCO X4 Pro 5G 印度版:Xiaomi
 22041216G:POCO X4 GT 国际版:Xiaomi
 22041216UG:POCO X4 GT Pro 国际版:Xiaomi
+22111317PG:POCO X5 5G 国际版:Xiaomi
+22101320G:POCO X5 Pro 5G 国际版:Xiaomi
+22101320I:POCO X5 Pro 5G 印度版:Xiaomi
 M2004J19PI:POCO M2 印度版:Xiaomi
 M2003J6CI:POCO M2 Pro 印度版:Xiaomi
 M2010J19CG:POCO M3 国际版:Xiaomi
@@ -3948,29 +4205,9 @@ M2006C3MI:POCO C3 印度版:Xiaomi
 220333QPG:POCO C40 国际版:Xiaomi
 220333QPI:POCO C40 印度版:Xiaomi
 220733SPI:POCO C50 印度版:Xiaomi
-SKR-A0:黑鲨游戏手机 全网通版:Xiaomi
-SKR-H0:黑鲨游戏手机 国际版:Xiaomi
-AWM-A0:黑鲨游戏手机 Helo:Xiaomi
-SKW-A0:黑鲨游戏手机 2 全网通版:Xiaomi
-SKW-H0:黑鲨游戏手机 2 国际版:Xiaomi
-DLT-A0:黑鲨游戏手机 2 Pro 全网通版:Xiaomi
-DLT-H0:黑鲨游戏手机 2 Pro 国际版:Xiaomi
-SHARK KLE-A0:腾讯黑鲨游戏手机 3 全网通版:Xiaomi
-SHARK KLE-H0:黑鲨游戏手机 3 国际版:Xiaomi
-SHARK MBU-A0:腾讯黑鲨游戏手机 3 Pro 全网通版:Xiaomi
-SHARK MBU-H0:黑鲨游戏手机 3 Pro 国际版:Xiaomi
-SHARK KLE-A0:腾讯黑鲨游戏手机 3S 全网通版:Xiaomi
-SHARK PRS-A0:黑鲨 4 全网通版:Xiaomi
-SHARK PRS-H0:黑鲨 4 国际版:Xiaomi
-SHARK KSR-A0:黑鲨 4 Pro 全网通版:Xiaomi
-SHARK KSR-H0:黑鲨 4 Pro 国际版:Xiaomi
-SHARK PRS-A0:黑鲨 4S 全网通版:Xiaomi
-SHARK KSR-A0:黑鲨 4S Pro 全网通版:Xiaomi
-SHARK PAR-A0:黑鲨 5 全网通版 / 黑鲨 5 高能版:Xiaomi
-SHARK PAR-H0:黑鲨 5 国际版:Xiaomi
-SHARK KSR-A0:黑鲨 5 RS 全网通版:Xiaomi
-SHARK KTUS-A0:黑鲨 5 Pro 全网通版:Xiaomi
-SHARK KTUS-H0:黑鲨 5 Pro 国际版:Xiaomi
+22127PC95G:POCO C55 国际版:Xiaomi
+22127PC95H:POCO C55 国际版:Xiaomi
+22127PC95I:POCO C55 印度版:Xiaomi
 XMWT01:小米手表:Xiaomi
 FYJ01QP:小米米家翻译机:Xiaomi
 21051191C:CyberDog 仿生四足机器人:Xiaomi
@@ -3994,10 +4231,13 @@ Hebe-BD00:Hi nova 9 Pro 5G:zhixuan
 FIO-BD00:Hi nova 9 SE 5G:zhixuan
 FIO-TL00:Hi nova 9 SE 5G:zhixuan
 MNT-BD00:Hi nova 9z 5G:zhixuan
+ALH-BD00:Hi nova 10 5G:zhixuan
+MGZ-BD00:Hi nova 10 Pro 5G:zhixuan
 F810:雷鸟 FF1 5G:zhixuan
 NAT-TN70:TD Tech N8 Pro:zhixuan
 TDT-MA01:TD Tech M40:zhixuan
 AVA-PA00:TD Tech P50:zhixuan
+LFT-AN00:WIKO 5G:zhixuan
 ZTE A2017:中兴天机 7:zte
 ZTE A2018:中兴天机 7S:zte
 ZTE C2017:中兴天机 7 MAX:zte
@@ -4051,3 +4291,5 @@ ZTE 7531N:中兴远航 30S:zte
 ZTE 8040N:中兴远航 30 Pro:zte
 ZTE 9041N:中兴远航 30 Pro+:zte
 ZTE 1010L:中兴畅行 30:zte
+ZTE 9042N:中兴远航 40 Pro+:zte
+ZTE 9043N:中兴 V70 Pro:zte
